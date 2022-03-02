@@ -1,0 +1,1922 @@
+AccountNumber,AccountName,OverallSupportSurveySatisfactionIndicator_SUM
+ACCT0000006,OUHSC/IT,6
+ACCT0000011,Allstate Corporation,6
+ACCT0000026,Clark County Nevada,8
+ACCT0000029,"AAA Northern California, Nevada & Utah Insurance Exchange",10
+ACCT0000034,Edmunds.com Inc,15
+ACCT0000045,"Harley-Davidson, Inc.",6
+ACCT0000051,International Financial Data Services (Canada) Ltd,6
+ACCT0000055,Johnson & Johnson,12
+ACCT0000058,Latham & Watkins LP,6
+ACCT0000069,Nationwide Mutual Insurance Company,6
+ACCT0000070,New York State Office of the State Comptroller,6
+ACCT0000083,Qualcomm Incorporated,2
+ACCT0000084,Dell Software Inc. (Quest Software),6
+ACCT0000114,Toyota Motor Sales USA Inc,7
+ACCT0000118,University of Kansas,11
+ACCT0000119,USAA,6
+ACCT0000129,Teachers Insurance and Annuity Association of America,6
+ACCT0000130,Verizon Wireless Inc,6
+ACCT0000163,Aetna Life Insurance Co,9
+ACCT0000170,BlueCross BlueShield of Kansas City,7
+ACCT0000173,Bristol-Myers Squibb Company,6
+ACCT0000175,Caterpillar Inc,8
+ACCT0000179,Colorado Springs Utilities,8
+ACCT0000181,ConocoPhillips,6
+ACCT0000186,Discover Financial Services,6
+ACCT0000193,Honda of America Manufacturing Inc,6
+ACCT0000199,Kohler Company,11
+ACCT0000214,ShopKo Stores Operating Co. LLC,8
+ACCT0000248,"Jo-Ann Stores, Inc",6
+ACCT0000251,Lands' End Inc,7
+ACCT0000252,La-Z-Boy Inc,13
+ACCT0000257,New York Life Insurance Company,6
+ACCT0000262,Sun Life Financial - Clairca,6
+ACCT0000268,Vision Service Plan,6
+ACCT0000273,Whirlpool Corporation,9
+ACCT0000278,"Morgan Stanley Services Group, Inc.",9
+ACCT0000283,"Prudential Financial, Inc.",6
+ACCT0000285,Deutsche Bank AG,7
+ACCT0000288,County Of Ventura,6
+ACCT0000298,Costco Wholesale Corporation,11
+ACCT0000302,Gap Inc.,7
+ACCT0000306,Alliant Insurance Services Inc,9
+ACCT0000307,Group Health Cooperative,6
+ACCT0000312,Larimer County,11
+ACCT0000318,Vocus Inc,6
+ACCT0000345,Legal & General Resources Ltd,10
+ACCT0000377,State Compensation Insurance Fund,14
+ACCT0000384,Forest City Enterprises Inc.,6
+ACCT0000390,PPL Corporation,6
+ACCT0000410,ARAMARK Corporation,7
+ACCT0000423,Shaw Industries Inc,6
+ACCT0000436,Millennium Pharmaceuticals Inc,6
+ACCT0000484,University of British Columbia,7
+ACCT0000486,Active Network LLC,17
+ACCT0000503,"Ameren Services Company, Inc",6
+ACCT0000504,Liberty University Inc,9
+ACCT0000525,Unum Group,6
+ACCT0000538,Stanford University,1
+ACCT0000545,RealFoundations Inc,7
+ACCT0000556,"Court Square Group, Inc.",12
+ACCT0000562,MedImmune LLC,5
+ACCT0000570,"Advent Software, Inc.",7
+ACCT0000572,Informatica LLC,6
+ACCT0000582,Betfair,6
+ACCT0000596,Burlington Coat Factory,7
+ACCT0000606,"Juniper Networks, Inc.",6
+ACCT0000607,"Plantronics, Inc.",11
+ACCT0000621,"Illumina, Inc.",18
+ACCT0000626,University Of Alabama At Birmingham,7
+ACCT0000636,Skills Development Scotland,6
+ACCT0000637,EMC Corporation - Managed Services,6
+ACCT0000638,Gannett Co Inc,6
+ACCT0000639,Siemens AG,9
+ACCT0000640,Verizon Wireline,6
+ACCT0000647,Cisco CMS,6
+ACCT0000659,RealNetworks Inc,6
+ACCT0000671,"Hallmark Cards, Inc.",6
+ACCT0000686,University of Minnesota,10
+ACCT0000698,Integris Health Inc,6
+ACCT0000699,County of Sacramento,6
+ACCT0000702,Carlson Companies,6
+ACCT0000706,UCare Minnesota,8
+ACCT0000708,Wisconsin Physicians Service Insurance Corporation,10
+ACCT0000721,"Paychex, Inc.",10
+ACCT0000729,"ResMed, Inc.",8
+ACCT0000738,Procter & Gamble Company,6
+ACCT0000741,"Hologic, Inc.",6
+ACCT0000749,Florida Virtual School,6
+ACCT0000753,City And County Of San Francisco Human Service Agency,6
+ACCT0000761,OhioHealth Corporation,8
+ACCT0000767,Autodesk - EIS,6
+ACCT0000776,BlueCross BlueShield Of Minnesota,9
+ACCT0000778,International Monetary Fund,9
+ACCT0000781,Motorola Solutions Inc,12
+ACCT0000782,Robert Half International Inc,6
+ACCT0000853,Clean Harbors Inc,6
+ACCT0000854,"Starwood Hotels & Resorts Worldwide, Inc.",6
+ACCT0000862,University of San Francisco,6
+ACCT0000863,PMC-Sierra Ltd,13
+ACCT0000893,Insurance Company of the West,7
+ACCT0000894,Blackhawk Network,6
+ACCT0000906,Steelcase Inc,6
+ACCT0000912,AIG Global Services Inc,8
+ACCT0000917,Ernst & Young LLP,7
+ACCT0000923,Papuan Oil Search Ltd,11
+ACCT0000924,Commonwealth Bank of Australia,6
+ACCT0000934,Marsh & McLennan Companies Inc,5
+ACCT0000945,Viacom Inc,7
+ACCT0000962,HealthPartners Inc,8
+ACCT0000963,"ISG Information Services Group Americas, Inc., including Affiliates",6
+ACCT0000973,BJ's Wholesale Club Inc,8
+ACCT0000982,Manulife Financial,6
+ACCT0000998,TD Bank Financial Group,6
+ACCT0001000,XL Group,6
+ACCT0001003,SITA SC Switzerland,7
+ACCT0001004,Thermo Fisher Scientific Inc,11
+ACCT0001005,Viavi Solutions Inc.,7
+ACCT0001006,Kronos Inc,13
+ACCT0001012,Discovery Communications LLC,6
+ACCT0001022,Hasbro Inc,6
+ACCT0001035,"Orrick, Herrington & Sutcliffe LLP",6
+ACCT0001039,Ecolab Inc.,6
+ACCT0001047,Eli Lilly & Co,10
+ACCT0001050,CBS Corp,6
+ACCT0001060,AllianceBernstein Holding LP,6
+ACCT0001067,NBA Properties Inc.,6
+ACCT0001074,"CH Robinson Worldwide, Inc.",15
+ACCT0001079,CentraCare Health Systems,6
+ACCT0001080,"UniGroup, Inc.",6
+ACCT0001086,Ball Corporation,6
+ACCT0001092,Solutionary Inc,6
+ACCT0001107,West Liberty Foods LLC,6
+ACCT0001125,UNS Energy Corporation (Tucson Electric Power),6
+ACCT0001144,Altru Health System,5
+ACCT0001149,Washington Corporations,6
+ACCT0001152,Helmerich & Payne Inc,6
+ACCT0001153,"Williams Companies, Inc.",10
+ACCT0001154,Salt River Project,6
+ACCT0001159,"ONEOK, Inc.",6
+ACCT0001182,Acxiom Corporation,6
+ACCT0001184,Arizona Public Service,6
+ACCT0001215,Kiewit Corporation,6
+ACCT0001222,UnityPoint Health,12
+ACCT0001230,Intermountain Healthcare Inc,6
+ACCT0001241,TeleTech Holdings Inc.,6
+ACCT0001257,A.M. Castle & Co.,6
+ACCT0001277,"Associated Wholesale Grocers, Inc.",8
+ACCT0001285,BDO USA LLP,14
+ACCT0001290,Brunswick Corporation,6
+ACCT0001300,Ingredion Incorporated,6
+ACCT0001329,GGP Limited Partnership,6
+ACCT0001336,Hospira Inc,6
+ACCT0001348,Kansas City Southern,6
+ACCT0001353,Maritz Inc.,2
+ACCT0001365,The Northern Trust Company,6
+ACCT0001379,RR Donnelley - USA,7
+ACCT0001391,Sears Holdings Corporation,18
+ACCT0001421,"W.W. Grainger, Inc.",11
+ACCT0001424,"Westar Energy, Inc.",6
+ACCT0001425,Wheaton Franciscan Services Inc.,6
+ACCT0001432,Alliant Energy Corporate Services Inc,11
+ACCT0001433,"Alliant Techsystems, Inc.",7
+ACCT0001439,American Family Insurance Co,6
+ACCT0001440,"Ameriprise Financial, Inc.",6
+ACCT0001452,Brady Worldwide Inc,13
+ACCT0001453,Briggs & Stratton Corporation,9
+ACCT0001456,Ceridian Corp,6
+ACCT0001467,Delphi Corporation,7
+ACCT0001471,Domino's Pizza Inc,6
+ACCT0001472,Donaldson Company Inc,15
+ACCT0001494,Henry Ford Health System,8
+ACCT0001495,Herman Miller Inc.,10
+ACCT0001506,Kohl's Corporation,10
+ACCT0001507,"Land O'Lakes, Inc.",10
+ACCT0001509,M.A. Mortenson Company,12
+ACCT0001514,"Medtronic, Inc.",6
+ACCT0001522,"MoneyGram Payment Systems, Inc.",6
+ACCT0001528,Oshkosh Corporation,6
+ACCT0001531,"Patterson Companies, Inc.",6
+ACCT0001533,"Pentair, Inc.",6
+ACCT0001539,Plexus Corp.,8
+ACCT0001540,"Polaris Industries, Inc.",6
+ACCT0001551,"Securian Financial Group, Inc.",9
+ACCT0001567,Trinity Health Corporation,10
+ACCT0001573,University of Michigan,6
+ACCT0001577,Wausau Paper Corp,6
+ACCT0001584,CoBank ACB,6
+ACCT0001596,City & County of Denver,8
+ACCT0001603,Agrium Inc,6
+ACCT0001615,British Columbia Lottery Corp,6
+ACCT0001624,CHC Helicopter Corporation,7
+ACCT0001630,Enbridge Inc.,7
+ACCT0001631,EnCana Corp,8
+ACCT0001632,Enerplus Resources Fund,6
+ACCT0001635,"Expedia, Inc.",9
+ACCT0001650,JELD-WEN Inc,6
+ACCT0001661,Nexen Inc.,6
+ACCT0001662,"Nike, Inc.",6
+ACCT0001678,Precision Drilling Corporation,6
+ACCT0001681,Recreational Equipment Inc,6
+ACCT0001692,Suncor Energy Inc,6
+ACCT0001696,Repsol Oil & Gas Canada Inc,11
+ACCT0001704,University of Washington Regents,12
+ACCT0001708,WestJet Airlines Ltd.,9
+ACCT0001721,California Public Employees' Retirement System,6
+ACCT0001722,Dignity Health,6
+ACCT0001731,"Gilead Sciences, Inc.",6
+ACCT0001738,Levi Strauss & Co.,5
+ACCT0001754,"Ross Stores, Inc.",15
+ACCT0001755,Safeway Inc,7
+ACCT0001766,University Of California Berkeley,10
+ACCT0001775,"Red Robin International, Inc.",6
+ACCT0001779,St Mungos,6
+ACCT0001792,Brown Brothers Harriman & Co.,11
+ACCT0001793,Compassion International Inc,8
+ACCT0001835,Federal Home Loan Bank Office of Finance,6
+ACCT0001841,Yale University,7
+ACCT0001846,Veda Advantage Ltd,6
+ACCT0001847,"Schuff International, Inc.",9
+ACCT0001852,Brigham Young University,7
+ACCT0001875,Lions Gate Entertainment Inc.,8
+ACCT0001923,"Ventura Foods, LLC",6
+ACCT0001931,"Coherent, Inc.",10
+ACCT0001955,"Varian Medical Systems, Inc.",6
+ACCT0001957,Hoag Memorial Hospital Presbyterian,6
+ACCT0001975,VCA Inc.,6
+ACCT0001981,Zenith Education Group Inc,7
+ACCT0002020,"Orbitz Worldwide, Inc.",9
+ACCT0002028,McDermott Will & Emery LLP,6
+ACCT0002037,Zebra Technologies Corp,11
+ACCT0002079,TTI Inc,6
+ACCT0002096,Corizon Health,8
+ACCT0002102,Panera Bread Company,6
+ACCT0002104,Ssm Health Care St Louis,7
+ACCT0002141,Denbury Resources Inc,6
+ACCT0002166,Crown Castle International Corp,8
+ACCT0002192,Conn Appliances Inc,6
+ACCT0002209,"Bristow Group, Inc.",6
+ACCT0002237,"Blackbaud, Inc.",9
+ACCT0002241,Austin Energy,6
+ACCT0002245,Baylor College Of Medicine,6
+ACCT0002261,"Cinemark, Inc.",10
+ACCT0002290,Pier 1 Services Company,13
+ACCT0002291,Pioneer Natural Resources Co,8
+ACCT0002313,Quanex Building Products Corporation,8
+ACCT0002328,Rush Enterprises Inc,6
+ACCT0002329,Sally Holdings LLC,6
+ACCT0002330,CHRISTUS Health,6
+ACCT0002332,Rent-A-Center,6
+ACCT0002340,Sabre Holdings Corporate,9
+ACCT0002342,Noble Energy Inc,6
+ACCT0002354,Michaels Stores Inc,6
+ACCT0002373,Atmos Energy Corporation,6
+ACCT0002376,National Oilwell Varco,5
+ACCT0002384,Southwest Airlines Co.,15
+ACCT0002385,CenterPoint Energy Inc,6
+ACCT0002390,Anadarko Petroleum Corporation,8
+ACCT0002414,Marathon Oil Corporation,6
+ACCT0002431,Sunovion Pharmaceuticals Inc,6
+ACCT0002437,Bain & Company Inc,8
+ACCT0002453,W.R. Berkley Corporation,17
+ACCT0002463,Cenveo Corp,6
+ACCT0002468,"Watts Water Technologies, Inc.",12
+ACCT0002469,PerkinElmer Inc,6
+ACCT0002491,Massachusetts Institute of Technology,6
+ACCT0002492,Terex Corporation,6
+ACCT0002516,"AEGIS Insurance Services, Inc.",14
+ACCT0002533,"American Capital, Ltd.",6
+ACCT0002577,"CDM Smith, Inc.",7
+ACCT0002584,Carnegie Mellon University,16
+ACCT0002649,Educational Testing Service,6
+ACCT0002678,The George Washington University / Columbian School,6
+ACCT0002683,Golder Associates Corporation,13
+ACCT0002695,Hanger Inc.,6
+ACCT0002717,IDEXX Laboratories Inc.,6
+ACCT0002750,Kinross Gold Corporation,16
+ACCT0002829,Northeastern University,15
+ACCT0002940,UIL Holdings Corporation,6
+ACCT0003009,CarMax Inc,6
+ACCT0003010,Carolinas HealthCare System,10
+ACCT0003015,CommScope Inc,6
+ACCT0003020,Delek US Holdings Inc,10
+ACCT0003022,Dollar General Corp,6
+ACCT0003031,Federal Home Loan Mortgage,9
+ACCT0003037,Genworth Financial Inc,6
+ACCT0003049,Inova Health System,6
+ACCT0003058,Lifepoint Corporate Services General Partnership,6
+ACCT0003102,Sentara Healthcare Inc,8
+ACCT0003162,"Brookwood Baptist Health 2, LLC",10
+ACCT0003193,Nationwide Children's Hospital,6
+ACCT0003198,City Of Virginia Beach,6
+ACCT0003222,Denny's Corporation,7
+ACCT0003236,"EnPro Industries, Inc.",11
+ACCT0003258,Franklin Electric Co Inc,6
+ACCT0003315,LORD Corporation,6
+ACCT0003350,Nemours Foundation,6
+ACCT0003353,Nordson Corporation,7
+ACCT0003377,Vidant Pitt County Memorial Hospital Inc,6
+ACCT0003438,"Tempur-Pedic International, Inc.",7
+ACCT0003473,University Hospitals,14
+ACCT0003500,"Advanced Micro Devices, Inc.",7
+ACCT0003505,"Allergan, Inc.",6
+ACCT0003509,"AMN Healthcare Services, Inc.",11
+ACCT0003511,Applied Materials Inc,6
+ACCT0003519,Boyd Gaming Corporation,6
+ACCT0003533,DaVita Inc.,10
+ACCT0003549,Google Inc.,18
+ACCT0003554,Hawaiian Electric Company Inc.,6
+ACCT0003555,"Health Net, Inc.",12
+ACCT0003563,Intuit Inc,6
+ACCT0003566,Jack in the Box,17
+ACCT0003567,Jacobs Engineering Group Inc,6
+ACCT0003573,Las Vegas Sands Corp,10
+ACCT0003580,"Mattel, Inc.",9
+ACCT0003587,Molina Healthcare Inc,7
+ACCT0003590,NetApp Inc.,6
+ACCT0003594,OXY Inc.,10
+ACCT0003606,Reliance Steel & Aluminum Co,6
+ACCT0003607,SanDisk Corporation,6
+ACCT0003617,Stanford Health Care,14
+ACCT0003621,Suffolk Construction Co Inc,6
+ACCT0003627,Teledyne Technologies,6
+ACCT0003629,The Irvine Company Inc.,6
+ACCT0003637,USC - Marshall School of Business,6
+ACCT0003641,"VeriSign, Inc.",6
+ACCT0003653,ARC Resources Ltd,6
+ACCT0003666,Graham Group Ltd.,11
+ACCT0003679,Trimac Transportation,6
+ACCT0003682,University of Alberta,11
+ACCT0003717,Interfor Corporation,6
+ACCT0003735,First Republic Bank,7
+ACCT0003749,Pillsbury Winthrop Shaw Pittman LLP,12
+ACCT0003753,"Restoration Hardware, Inc.",6
+ACCT0003775,"DCP Midstream Partners, LP",8
+ACCT0003776,Denver International Airport,7
+ACCT0003779,IHS Inc,7
+ACCT0003781,MarkWest Hydrocarbon Inc,7
+ACCT0003791,"UDR, Inc.",6
+ACCT0003798,FBL Financial Group Inc,6
+ACCT0003852,"G&K Services, Inc.",6
+ACCT0003875,TCF Financial Corp,8
+ACCT0003934,"Overstock.com, Inc.",10
+ACCT0003956,URM Stores Inc,12
+ACCT0003977,"Kwik Trip, Inc.",13
+ACCT0003996,Ingram Micro Inc.,6
+ACCT0004014,University of Notre Dame,6
+ACCT0004016,Wabash National Corporation,7
+ACCT0004023,Humana Inc,7
+ACCT0004027,Omnicare Inc,7
+ACCT0004029,PharMerica Corporation,6
+ACCT0004034,University of Kentucky Lexington,6
+ACCT0004040,"American Electric Power Company, Inc.",12
+ACCT0004045,Battelle Memorial Institute,12
+ACCT0004046,Big Lots Inc,10
+ACCT0004047,"Bob Evans Farms, Inc.",7
+ACCT0004049,Vitas Healthcare,6
+ACCT0004050,Chiquita Brands,6
+ACCT0004066,The Huntington National Bank,6
+ACCT0004080,NCR Corporation,13
+ACCT0004083,Owens Corning,7
+ACCT0004109,Tufts University,6
+ACCT0004125,Raymond James Financial Inc,8
+ACCT0004129,"ScanSource, Inc.",1
+ACCT0004149,Infinity Insurance Company,6
+ACCT0004159,Protective Life Corporation,8
+ACCT0004187,"JM Family Enterprises, Inc.",7
+ACCT0004196,Ebsco Industries Inc,6
+ACCT0004200,"Chico's FAS, Inc.",5
+ACCT0004249,Lennar Corporation,7
+ACCT0004251,Synovus Financial Corp.,6
+ACCT0004253,Exide Technologies,10
+ACCT0004265,Genuine Parts Company,7
+ACCT0004278,"Jabil Circuit, Inc.",11
+ACCT0004282,The Home Depot U.S.A. Inc.,7
+ACCT0004284,ipsos MORI,6
+ACCT0004286,"Air Products & Chemicals, Inc.",10
+ACCT0004294,"Armstrong World Industries, Inc.",6
+ACCT0004305,Childrens Hospital Of Philadelphia,6
+ACCT0004306,Christiana Care Health Services Inc,6
+ACCT0004330,Harsco Corp,6
+ACCT0004337,Kennametal Inc.,6
+ACCT0004338,Keystone Foods LLC,6
+ACCT0004341,"Legg Mason, Inc.",6
+ACCT0004354,"PNC Bank, NA",7
+ACCT0004362,SEI Funds,7
+ACCT0004363,Select Medical Holdings Corporation,9
+ACCT0004370,"T. Rowe Price Group, Inc",7
+ACCT0004391,W.L. Gore & Associates Inc,7
+ACCT0004393,Wabtec Corp,7
+ACCT0004412,"University of California, Santa Cruz",9
+ACCT0004428,American Express Company,6
+ACCT0004452,Cablevision Systems Corporation,6
+ACCT0004453,Campbell Soup Co,7
+ACCT0004457,"Children's Place Retail Stores, Inc.",6
+ACCT0004464,Columbia University,10
+ACCT0004469,Corning Incorporated,7
+ACCT0004471,Covanta Holding Corporation,6
+ACCT0004482,Eastman Kodak Company,7
+ACCT0004487,Foot Locker Corporate Services Inc,6
+ACCT0004503,"Henry Schein, Inc.",6
+ACCT0004523,ITT Corporation,7
+ACCT0004525,Jarden Corporation,6
+ACCT0004535,Loews Corporation,6
+ACCT0004550,Moody's Corporation,10
+ACCT0004565,New York Presbyterian Hospital,6
+ACCT0004568,Intercontinental Exchange | NYSE,7
+ACCT0004574,Parsons Brinckerhoff Inc,9
+ACCT0004581,PHH Corporation,6
+ACCT0004586,PSEG (Public Service Enterprise Group Inc.),7
+ACCT0004618,Blackstone Group LP,9
+ACCT0004632,WP Company LLC,7
+ACCT0004633,Tiffany and Company,6
+ACCT0004670,General Electric - Appliance & Lighting,6
+ACCT0004684,EnerNOC. Inc.,7
+ACCT0004686,Ohio State University Medical Center,6
+ACCT0004687,Scottrade Inc,6
+ACCT0004699,Tickets.com,17
+ACCT0004702,Spotless Services Ltd,10
+ACCT0004707,Kansas State University,8
+ACCT0004735,ASML Netherlands B.V.,7
+ACCT0004753,Santander Consumer USA Inc,6
+ACCT0004769,Wellcome Trust,10
+ACCT0004781,Virgin Care,6
+ACCT0004784,Fuji Xerox Australia Pty Ltd,6
+ACCT0004803,Mozilla Corp,10
+ACCT0004826,Corporation of the Presiding Bishop,12
+ACCT0004838,Domestic & General Services Ltd,12
+ACCT0004842,The Argus Group,7
+ACCT0004849,BP International,17
+ACCT0004866,Allianz Global Corporate and Specialty,11
+ACCT0004868,KinderCare Education LLC,6
+ACCT0004870,Reed Exhibitions Ltd,6
+ACCT0004879,International Flavors and Fragrances,12
+ACCT0004892,State of Iowa,7
+ACCT0004897,Fair Isaac Corporation,8
+ACCT0004901,Willis Group Holdings,12
+ACCT0004902,JT International SA,11
+ACCT0004905,"Lord, Abbett & Co. LLC",6
+ACCT0004906,Les Schwab Tire Centers,7
+ACCT0004908,BlueShield Of California,6
+ACCT0004909,Northwestern Medicine,6
+ACCT0004916,MSCI Inc,14
+ACCT0004919,TransWorks,7
+ACCT0004932,Acument Global Technologies Inc,14
+ACCT0004936,Koch Industries Inc,6
+ACCT0004940,Hyatt Corporation,8
+ACCT0004941,County of Tulare,6
+ACCT0004944,Brit Group Services,10
+ACCT0004952,"Taconic Biosciences, Inc.",8
+ACCT0004957,Philip Morris International,8
+ACCT0004960,Blackboard Inc,6
+ACCT0004962,Asurion Corp,6
+ACCT0004969,Neustar Inc,11
+ACCT0004976,KPN Corporate Market BV,12
+ACCT0005017,PA Consulting,6
+ACCT0005021,Blue Coat Systems Inc,6
+ACCT0005029,"Synaptics, Incorporated",6
+ACCT0005041,Philips Corporate IT,14
+ACCT0005044,British Columbia Registry Services,7
+ACCT0005053,Ion Beam Applications SA,6
+ACCT0005058,Western & Southern Financial Group Inc,7
+ACCT0005071,Quintiles Transnational Corp,6
+ACCT0005083,Hillsborough County Aviation Authority,10
+ACCT0005087,YRC Worldwide Inc.,3
+ACCT0005097,Hearst Magazines,9
+ACCT0005102,Yusen Logistics UK (Former NYK),6
+ACCT0005108,Wincanton PLC,6
+ACCT0005111,Envision Healthcare Inc.,6
+ACCT0005114,State Of Ohio Office Of Information Technology,6
+ACCT0005116,thePlatform for Media Inc.,6
+ACCT0005124,Queensland CITEC,12
+ACCT0005144,Advertising.com,6
+ACCT0005146,Hazelden Foundation,6
+ACCT0005148,Prime Therapeutics LLC,6
+ACCT0005154,POWERLINK Queensland,6
+ACCT0005164,KGB,6
+ACCT0005165,Cancer Research UK,7
+ACCT0005170,Jazz Pharmaceuticals inc,7
+ACCT0005176,AmWINS Group Inc,6
+ACCT0005178,UBS Financial Services Inc,6
+ACCT0005204,Tyco Fire and Security Australia,11
+ACCT0005209,Richemont Group,6
+ACCT0005231,Unitus Community Credit Union,6
+ACCT0005241,NetJets Inc,7
+ACCT0005246,Forethought Financial Services Inc (Global Atlantic Financial Company),6
+ACCT0005260,Lennox International Inc,8
+ACCT0005275,NetHope (Worldvision),6
+ACCT0005278,Education Management Corporation,6
+ACCT0005281,Northwell Health,1
+ACCT0005286,NYK Logistics North America Inc,6
+ACCT0005345,Weber State University,13
+ACCT0005347,"Novant Health, Inc.",6
+ACCT0005350,"Cree, Inc.",10
+ACCT0005373,Everest Reinsurance Group,6
+ACCT0005381,Gibson Energy Inc,10
+ACCT0005388,Mercy Health,13
+ACCT0005396,"NBC Universal, Inc.",7
+ACCT0005415,EDP / Energias de Portugal,8
+ACCT0005425,Athene Annuity and Life Company,13
+ACCT0005428,VOYA Financial,10
+ACCT0005436,Federal Home Loan Bank of San Francisco,6
+ACCT0005440,Centrica plc,8
+ACCT0005472,British Columbia Automobile Association,6
+ACCT0005491,Saint Luke's Health System Inc,12
+ACCT0005506,Severn Trent Plc,5
+ACCT0005525,Simon Fraser University,12
+ACCT0005531,Invensys Inc,16
+ACCT0005535,Falcon Private Bank AG (Formerly AIG Private Bank Ltd.),6
+ACCT0005545,Flextronics International Ltd.,6
+ACCT0005556,Sony Pictures Entertainment Inc,6
+ACCT0005560,VMware - One Cloud,6
+ACCT0005561,Morrison & Foerster LLP,15
+ACCT0005585,Challenger Group Services Pty Limited,6
+ACCT0005593,Queensland Department of Housing and Public Works,7
+ACCT0005594,Queensland WOG - Gold Coast City Council (GCCC),12
+ACCT0005595,Queensland WOG - Griffith University,7
+ACCT0005596,Westpac Banking (Capital Finance Australia),7
+ACCT0005600,News Ltd,6
+ACCT0005602,Queensland Health - GCUH,6
+ACCT0005603,Queensland Transport,7
+ACCT0005604,VISY,10
+ACCT0005607,ZettaServe Pty Ltd,12
+ACCT0005630,Neuberger Berman LLC,7
+ACCT0005645,Panasonic Automotive Systems Company of America,6
+ACCT0005646,Ohio State University Office of Information Technology,10
+ACCT0005650,Atkins Ltd,7
+ACCT0005661,Wellington Management Co LLP,7
+ACCT0005663,AXIS Capital Holdings Limited,6
+ACCT0005684,Discount Tire Co Inc,7
+ACCT0005693,Tucson Medical Center,6
+ACCT0005695,AMOS of America Inc,6
+ACCT0005707,Newport Corporation,7
+ACCT0005712,Jackson Walker LLC,6
+ACCT0005725,Commonwealth of Pennsylvania,12
+ACCT0005737,Multnomah County,6
+ACCT0005752,Skandia Forsaljning AB,7
+ACCT0005766,Centric Consulting LLC,16
+ACCT0005769,OCLC,7
+ACCT0005773,bwin.party Management (Gibraltar) Ltd,7
+ACCT0005775,SICPA Security Solutions SA,7
+ACCT0005778,Visiting Nurse Service of New York,6
+ACCT0005785,Hanover Insurance Group,7
+ACCT0005788,Commerce Insurance Company,7
+ACCT0005795,Postmedia Network,3
+ACCT0005796,SaskTel,11
+ACCT0005806,Tarrant County Information Technology,10
+ACCT0005824,"University of California, San Francisco",7
+ACCT0005830,Rogers Communications Inc,7
+ACCT0005831,Southern Company,8
+ACCT0005838,Air Liquide,6
+ACCT0005848,"California State University, East Bay",7
+ACCT0005869,FGL Sports Ltd.,7
+ACCT0005872,The RMR Group,6
+ACCT0005885,Bupa Ltd,6
+ACCT0005899,Maricopa County Community College District,4
+ACCT0005906,Gogo LLC,7
+ACCT0005919,Bank of Nova Scotia,10
+ACCT0005937,Weston Foods,6
+ACCT0005940,National Bank of Canada,6
+ACCT0005941,National Life Group,6
+ACCT0005951,"Tufts Associated Health Plans, Inc.",6
+ACCT0005961,Underwriters Laboratories Inc,6
+ACCT0005970,ICAP Plc,6
+ACCT0005976,Claranet Ltd,7
+ACCT0005978,University of Utah,6
+ACCT0006001,Duke University Health System Inc,11
+ACCT0006016,Univar Inc,9
+ACCT0006020,Madison Area Technical College,7
+ACCT0006021,City of Surrey,9
+ACCT0006022,Metropolitan Housing Partnership,8
+ACCT0006024,"T-Mobile USA, Inc",13
+ACCT0006035,University of California Los Angeles,6
+ACCT0006037,Harvard University,8
+ACCT0006041,"University of California, Santa Barbara",7
+ACCT0006045,Amarillo College,4
+ACCT0006129,Blue Cross of Idaho,9
+ACCT0006131,"Lowe's Companies, Inc",6
+ACCT0006132,South Central Regional Information Center (Broome-Tioga BOCES),6
+ACCT0006135,DISH Purchasing Corporation,6
+ACCT0006138,"OS Management, Inc.",17
+ACCT0006140,University of Warwick,7
+ACCT0006149,"Tailored Shared Services, LLC",6
+ACCT0006169,Herbalife International Inc,9
+ACCT0006177,Invesco Ltd,11
+ACCT0006180,Direct Energy,7
+ACCT0006194,John Lewis Plc,15
+ACCT0006199,Dole Packaged Foods LLC,6
+ACCT0006202,Deloitte Services (Customer) USA,6
+ACCT0006206,Jefferson County,6
+ACCT0006209,Arise Virtual Solutions Inc,8
+ACCT0006211,Payless ShoeSource,6
+ACCT0006219,Viterra Inc.,10
+ACCT0006224,SunPower Corporation,6
+ACCT0006257,Concurrent Technologies Corporation,6
+ACCT0006264,CareFirst BlueCross BlueShield,11
+ACCT0006275,Barrick Gold Corporation,9
+ACCT0006278,Ontario Lottery and Gaming Corporation,14
+ACCT0006338,Janney Montgomery Scott LLC,10
+ACCT0006351,Royal Mail Group Ltd.,6
+ACCT0006353,Symcor Inc,7
+ACCT0006355,Teck Resources Limited,15
+ACCT0006367,Toyota Financial Services,6
+ACCT0006371,University Of California Los Angeles - Health System,6
+ACCT0006399,"Equinix, Inc.",10
+ACCT0006400,"AM/NS Calvert LLC (formerly ThyssenKrupp Steel USA, LLC)",6
+ACCT0006404,Honda North America,13
+ACCT0006419,Overwaitea Food Group Limited Partnership,6
+ACCT0006427,Auckland University Of Technology,7
+ACCT0006441,WOLSELEY (Ferguson),9
+ACCT0006457,State Of Delaware,6
+ACCT0006479,NYC Dept of Youth & Community Development,11
+ACCT0006489,ArcBest Technologies (frmly Data Tronics Corporation),7
+ACCT0006516,Mediterranean Shipping Company (MSC),6
+ACCT0006540,Thermo Fisher Scientific,6
+ACCT0006544,Globo.com,7
+ACCT0006555,Celerion Inc,10
+ACCT0006558,University of California Office of President,6
+ACCT0006569,"University of California, Irvine",10
+ACCT0006577,California State University Los Angeles,6
+ACCT0006583,Athabasca University,6
+ACCT0006591,Hennepin County Medical Center,9
+ACCT0006615,F5 Networks Inc,16
+ACCT0006635,"Bridgepoint Education, Inc.",7
+ACCT0006636,Becton Dickinson GSS,11
+ACCT0006647,HSBC Global Services UK Ltd,6
+ACCT0006695,Transcom,6
+ACCT0006702,Geneia LLC,6
+ACCT0006709,"EGS Corporation (NCO Group, Inc.)",6
+ACCT0006710,ProMedica Health Systems Inc,6
+ACCT0006719,Informa PlUK Ltdc,6
+ACCT0006721,ATCORE Technology Ltd,6
+ACCT0006723,Four Seasons Hotels,7
+ACCT0006727,Toyota Motor Manufacturing Canada Inc,6
+ACCT0006751,University of California Merced,6
+ACCT0006757,Vopak Global Information Services,15
+ACCT0006760,Macquarie University,9
+ACCT0006763,Reed Elsevier Technology Services Inc,11
+ACCT0006769,Boston Medical Center Corp,7
+ACCT0006774,BlueCross BlueShield of Louisiana,6
+ACCT0006779,Greenville Health System,11
+ACCT0006780,Epicor Software Corp,11
+ACCT0006781,"Waggener Edstrom Worldwide, Inc.",8
+ACCT0006796,"ANSYS, Inc.",9
+ACCT0006802,"Buffalo Wild Wings, Inc.",6
+ACCT0006824,Gardner Denver Inc,17
+ACCT0006831,Royal Automobile Club of Victoria (RACV) Ltd,8
+ACCT0006833,LexisNexis Group,2
+ACCT0006834,Fiat Chrysler,12
+ACCT0006842,Macquarie Telecom Pty Ltd,6
+ACCT0006854,Stora Enso AB,6
+ACCT0006856,Novo Nordisk AS,6
+ACCT0006858,Wellmont Health System,7
+ACCT0006863,Premier Health Partners,7
+ACCT0006867,Elster Holdings GmbH,6
+ACCT0006868,Onninen Oy,7
+ACCT0006869,Cargotec,6
+ACCT0006872,Aeroport International De Geneve,6
+ACCT0006887,MIR3 Inc,6
+ACCT0006897,DJO Global Inc,7
+ACCT0006905,Locaweb Servicos de Internet S.A.,6
+ACCT0006910,IDP Education Pty Ltd,12
+ACCT0006917,Toshiba America Business Solutions,6
+ACCT0006929,Euler Hermes Group,9
+ACCT0006937,"Samuel, Son & Co. Ltd.",15
+ACCT0006940,Cox Automotive,6
+ACCT0006942,FairPoint Communications Inc,7
+ACCT0006943,CHEP Company,15
+ACCT0006944,"Epocrates, Inc.",8
+ACCT0006947,Ares Management LLC,8
+ACCT0006958,Eastern Maine Healthcare Systems,8
+ACCT0006966,"Velocity Technology Solutions, Inc.",6
+ACCT0006970,eHealth NSW,6
+ACCT0006980,Queensland WOG - CorpTech,11
+ACCT0007001,Alexander Mann,7
+ACCT0007002,Purdue Pharma L.P.,7
+ACCT0007013,TNT Express ICS Limited,1
+ACCT0007014,The Chubb Corporation,7
+ACCT0007017,Virginia Polytechnic Institute And State University,6
+ACCT0007021,"Actelion Pharmaceuticals US, Inc",7
+ACCT0007041,Sage (UK) Limited,8
+ACCT0007046,Tyco Safety Products,6
+ACCT0007048,Skanska USA Inc,6
+ACCT0007051,Norges Idrettsforbund (NIF),9
+ACCT0007071,Oxfam GB,11
+ACCT0007074,Stockmann Oyj Abp,9
+ACCT0007085,I-Bridge BV,11
+ACCT0007100,Imperial College London Ltd,7
+ACCT0007101,Medica,7
+ACCT0007102,Centene Corp.,11
+ACCT0007118,State Of Maryland,7
+ACCT0007140,Fresenius Netcare GmbH,6
+ACCT0007151,University Of California - UCSD Health Sciences,13
+ACCT0007160,Coca-Cola Company,6
+ACCT0007162,Alb??a Services (Alb??a Group),6
+ACCT0007180,St. Luke's Health Network,9
+ACCT0007202,Qantas Airways Ltd,8
+ACCT0007205,International Air Transport Association IATA,7
+ACCT0007222,Yamana Gold Inc,3
+ACCT0007236,Dollarama,6
+ACCT0007243,Denovo,7
+ACCT0007249,O'Melveny & Myers LLP,6
+ACCT0007251,Asante Health System,7
+ACCT0007293,Nav Canada,6
+ACCT0007296,CERN,6
+ACCT0007305,ApplicationNet BV,10
+ACCT0007313,Alliance Pipeline Ltd.,6
+ACCT0007315,Under Armour Inc,6
+ACCT0007321,eProtex,5
+ACCT0007336,Orica Ltd,16
+ACCT0007338,Telstra International EMEA,6
+ACCT0007340,Smart421 Ltd,6
+ACCT0007351,Travelport LP,6
+ACCT0007361,WellMed Medical Management Inc,7
+ACCT0007369,Queensland Department of Education and Training,8
+ACCT0007374,BSH Hausger?ñte GmbH,10
+ACCT0007380,Elisa (Parent of Appelsiini),6
+ACCT0007386,Europcar,6
+ACCT0007394,Reed Professional Services LP,9
+ACCT0007431,"California State University, Dominguez Hills",6
+ACCT0007452,KPN IT/NL,6
+ACCT0007454,Franke Management AG,7
+ACCT0007462,OARnet,6
+ACCT0007464,Bain Capital LLC,6
+ACCT0007491,Neste Oyj,6
+ACCT0007496,Tieto Oyj,10
+ACCT0007515,Loyola Marymount University Inc,6
+ACCT0007516,AccentCare Inc,6
+ACCT0007517,Lululemon Athletica Inc,6
+ACCT0007524,CIMIC Group Limited,6
+ACCT0007527,L.A. Fitness International LLC,12
+ACCT0007530,Ingeus Europe Ltd,6
+ACCT0007538,Sanoma Corporation,6
+ACCT0007555,William Hill Plc,15
+ACCT0007570,A & N Media,6
+ACCT0007575,IBM UK Ltd - WPP,6
+ACCT0007577,"Rackspace US, Inc",8
+ACCT0007580,Murdoch University,7
+ACCT0007590,Konecranes Global Corporation,6
+ACCT0007595,Maxam Europe SA,7
+ACCT0007601,Douglas County Government,7
+ACCT0007628,"Aritzia, LP",7
+ACCT0007633,Posti Group Oyj,9
+ACCT0007651,Healthfirst Inc,6
+ACCT0007661,NICE Systems Ltd,10
+ACCT0007666,Related Companies Inc,9
+ACCT0007673,Time Inc.,6
+ACCT0007684,Landgate,6
+ACCT0007689,Canadian Western Bank,8
+ACCT0007710,Rovi Corporation,6
+ACCT0007717,Allen and Overy LLP,6
+ACCT0007729,Alexion Pharmaceuticals Inc,6
+ACCT0007734,Saint Francis Care Inc,9
+ACCT0007765,Integra Telecom Inc,6
+ACCT0007767,LinkedIn Corporation,6
+ACCT0007771,University of California - Irvine Medical Center,6
+ACCT0007772,First Financial Bancorp,12
+ACCT0007788,"Jeppesen Sanderson, Inc.",8
+ACCT0007789,Goodyear Dunlop Belgium (Fujitsu),11
+ACCT0007906,Federal Home Loan Bank Of Boston,7
+ACCT0007913,Clifford Chance LLP,6
+ACCT0007947,Avid,9
+ACCT0007948,Event Hospitality & Entertainment Ltd,7
+ACCT0007953,"First Banks, Inc.",11
+ACCT0007961,"Verisk Analytics, Inc.",6
+ACCT0007982,"athenahealth, Inc.",10
+ACCT0007994,Haemonetics Corporation,7
+ACCT0008002,NGAM Advisors LP,7
+ACCT0008006,Sapient Corporation,6
+ACCT0008020,Guy's St Thomas' NHS Foundation Trust,7
+ACCT0008030,SVB Financial Group,6
+ACCT0008045,Chevron Federal Credit Union,6
+ACCT0008067,BlueCross BlueShield Association,6
+ACCT0008072,Edward Elmhurst Healthcare,7
+ACCT0008087,Crowe Horwath LLP,6
+ACCT0008096,"Carhartt, Inc.",6
+ACCT0008098,Lakeland HealthCare,8
+ACCT0008100,"Plante & Moran, PLLC",7
+ACCT0008111,St. Anthony's Medical Center,11
+ACCT0008120,Central 1 Credit Union,7
+ACCT0008123,"Match.com, LLC",9
+ACCT0008139,Burns & McDonnell Inc,6
+ACCT0008154,"Baker Tilly Virchow Krause, LLP",6
+ACCT0008159,ProHealth Care Inc,7
+ACCT0008185,"Cushman & Wakefield, UK Ltd",6
+ACCT0008188,"MSG Sports & Entertainment, LLC",14
+ACCT0008190,MetLife Europe Ltd,7
+ACCT0008191,Firmenich SA,9
+ACCT0008196,Kmart Australia Limited,10
+ACCT0008198,Pacific Life - Retirement Services,7
+ACCT0008201,Utah State University,6
+ACCT0008205,"O'Neil & Associates, Inc.",6
+ACCT0008207,University Of Central Florida,6
+ACCT0008211,City of Houston,6
+ACCT0008251,Independent Electricity System Operator (IESO),18
+ACCT0008299,Infoblox Inc.,6
+ACCT0008325,Davis Wright Tremaine LLP,8
+ACCT0008371,National Football League Inc,7
+ACCT0008372,Australian National University,11
+ACCT0008382,Midland Credit Management Inc,6
+ACCT0008393,University of Miami,11
+ACCT0008394,Western Governors University,11
+ACCT0008395,Canadian Real Estate Association,11
+ACCT0008424,AlixPartners LLP,15
+ACCT0008460,BlueCross BlueShield of Vermont,12
+ACCT0008485,"State of Alabama, Department of Finance, Information Services Division",10
+ACCT0008502,Behr Process Corp,6
+ACCT0008503,EXFO Inc,8
+ACCT0008506,Arkea,11
+ACCT0008513,Vertafore Inc,8
+ACCT0008531,University of South Florida,6
+ACCT0008543,Tyco UK,6
+ACCT0008584,NDS Ltd,14
+ACCT0008591,"Enterprise Holdings, Inc.",7
+ACCT0008597,Scott County,6
+ACCT0008603,Afilias Canada Corp,13
+ACCT0008609,FATCO Holdings LLC,12
+ACCT0008614,Allianz Managed Operations & Services SE,6
+ACCT0008616,The Depository Trust & Clearing Corporation (DTCC),6
+ACCT0008619,First Niagara Financial Group Inc,7
+ACCT0008620,Charter Communications,6
+ACCT0008622,Peabody Energy Corp,6
+ACCT0008624,Weill Cornell Medical College,7
+ACCT0008666,Balfour Beatty Group Ltd,7
+ACCT0008668,Ubisoft,10
+ACCT0008675,Adventist Health System Sunbelt Healthcare Corp,6
+ACCT0008700,"Lexmark International, Inc.",6
+ACCT0008702,"Allina Health System, Inc.",12
+ACCT0008706,BB & T Corp,12
+ACCT0008708,Timico Limited,7
+ACCT0008715,University Of Texas Southwest Medical Center,7
+ACCT0008725,Canadian Tire Corporation Limited,6
+ACCT0008763,Ericsson AB,7
+ACCT0008784,"Bureau of National Affairs, Inc.",8
+ACCT0008786,Canadian Imperial Bank of Commerce,7
+ACCT0008787,Acciona Corp SA,10
+ACCT0008788,Horizon BlueCross BlueShield of New Jersey,6
+ACCT0008797,Memorial Hermann Hospital System,6
+ACCT0008798,Microsoft Corporation,9
+ACCT0008799,"Altria Group, Inc.",6
+ACCT0008826,Sirius XM Radio Inc,6
+ACCT0008834,Essendant Co.,8
+ACCT0008837,Hitachi Capital (UK) PLC,6
+ACCT0008844,Academy Mortgage Corp,1
+ACCT0008866,ICMA-RC,12
+ACCT0008872,Minter Ellison,6
+ACCT0008877,Finish Line Inc.,9
+ACCT0008897,Si Systems Ltd,7
+ACCT0008900,State of Utah Department of Technology Services,7
+ACCT0008901,Acision Ltd,6
+ACCT0008909,Blue Chip Data Systems Ltd,7
+ACCT0008917,Al Jazeera Media Network,8
+ACCT0008918,Ericsson UK,8
+ACCT0008920,Panduit Corporation,7
+ACCT0008938,Mettler-Toledo International Inc.,6
+ACCT0008952,Australian Catholic University,11
+ACCT0008962,Sallie Mae Bank,6
+ACCT0009003,Bridgestone EMEA,10
+ACCT0009010,Supergros A/S,6
+ACCT0009011,Actelion Pharmaceuticals Ltd,14
+ACCT0009012,Ville De Geneve,6
+ACCT0009023,Axfood AB,6
+ACCT0009037,Herbert Smith Ltd,6
+ACCT0009039,Norton Rose Ltd,7
+ACCT0009048,AG Service Company Limited (Addleshaw Goddard Llp),8
+ACCT0009054,Wragge Lawrence Graham & Co LLP,8
+ACCT0009059,"Yazaki North America, Inc.",6
+ACCT0009060,America's Remote Help Desk,6
+ACCT0009086,Adidas AG,6
+ACCT0009095,New York University,7
+ACCT0009102,Hospital Sisters Health System,8
+ACCT0009109,"Avnet, Inc",6
+ACCT0009110,CareFusion IT/Becton Dickinson IT,6
+ACCT0009119,Cox Enterprises Inc,6
+ACCT0009121,Global Switch Ltd,14
+ACCT0009129,Sterling Jewelers Inc,6
+ACCT0009137,Steria Schweiz AG,11
+ACCT0009145,QBE Group Shared Services Limited,13
+ACCT0009147,"HGST, A Western Digital Company",6
+ACCT0009152,Target Corporation,6
+ACCT0009156,Robert W Baird & Co Inc,7
+ACCT0009158,Saint Gobain DSI Groupe,11
+ACCT0009159,Tag Heuer,12
+ACCT0009160,NorthgateArinso Belgium SA,6
+ACCT0009163,Univision Communications Inc,12
+ACCT0009168,Symantec Corporation,7
+ACCT0009175,CenturyLink Inc,6
+ACCT0009178,Intel Corporation,9
+ACCT0009186,Technicolor Inc.,11
+ACCT0009189,Hawaiian Telcom Inc,6
+ACCT0009199,KBC Groep NV,9
+ACCT0009219,CIGNA Corporation,6
+ACCT0009221,Bournemouth University,12
+ACCT0009233,MPG Operations LLC,2
+ACCT0009239,Imperial Tobacco Group Plc,6
+ACCT0009242,Diageo plc,6
+ACCT0009250,ING Belgium,7
+ACCT0009251,Kingfisher Plc,7
+ACCT0009254,Puget Sound Energy Inc,7
+ACCT0009260,Granite Construction Incorporated,6
+ACCT0009274,Asos,6
+ACCT0009278,Delaval Services GmbH,6
+ACCT0009280,Hannover RE,12
+ACCT0009303,General Motors Financial Co Inc,10
+ACCT0009333,Cimpress,14
+ACCT0009347,Daiwa Capital Markets America Inc.,6
+ACCT0009389,New York Public Library,6
+ACCT0009402,Russell Reynolds Associates Inc,6
+ACCT0009424,Wachtell Lipton Rosen & Katz,8
+ACCT0009437,Deutsche Post IT Services GmbH,8
+ACCT0009443,Rural/Metro Corporation,6
+ACCT0009460,AMEC Foster Wheeler PLC,17
+ACCT0009486,Mizuho Securities International and Asia,13
+ACCT0009512,Lafarge SA,6
+ACCT0009515,Thales UK Ltd,14
+ACCT0009519,"Ascension Health-IS, Inc. d/b/a Ascension Information Services",7
+ACCT0009520,Health & Hospital Corporation,6
+ACCT0009534,Scottish Water,8
+ACCT0009555,Shriners Hospitals for Children,6
+ACCT0009556,ERP Suites,7
+ACCT0009568,Dufry Management AG,6
+ACCT0009570,Holcim Group Services Ltd,11
+ACCT0009581,"L.L. Bean, Inc.",6
+ACCT0009601,Erie Indemnity Company,8
+ACCT0009607,Hawaiian Airlines Inc,6
+ACCT0009608,"Nebraska Furniture Mart, Inc.",10
+ACCT0009611,EdgeCast Networks Inc.,14
+ACCT0009617,Selfridges Group,6
+ACCT0009620,Scottish & Southern Energy Plc,6
+ACCT0009642,Echo Entertainment Group Ltd,7
+ACCT0009656,Veolia Environmental Services (UK) Plc,6
+ACCT0009661,Children's Hospital and Research Center Oakland,6
+ACCT0009694,UFI Ltd (LearnDirect),6
+ACCT0009713,SNCF R??seaux,6
+ACCT0009731,KAR Auction Services Inc,6
+ACCT0009738,Target Australia Pty Ltd,6
+ACCT0009744,Covance Inc.,10
+ACCT0009747,Adecco,9
+ACCT0009752,Lincoln Financial Group,7
+ACCT0009757,Splunk Inc,6
+ACCT0009758,L?ñkemedelsverket,6
+ACCT0009759,City and Guilds,7
+ACCT0009768,Admin Re UK Ltd,6
+ACCT0009807,Suffolk University,6
+ACCT0009838,Mayo Clinic Minnesota,6
+ACCT0009841,Globalfoundries Dresden Module Two GmbH & Co. KG,10
+ACCT0009845,IPF International Limited (company number 00753518),6
+ACCT0009849,Spirit Airlines Inc,14
+ACCT0009861,Otterbox,6
+ACCT0009865,Merck KG Auf Aktien,10
+ACCT0009874,Simpson Strong-Tie Co Inc,8
+ACCT0009879,James Cook University,7
+ACCT0009880,Deakin University,6
+ACCT0009895,University of Louisville,7
+ACCT0009897,Yorkshire Building Society,7
+ACCT0009901,Stanley Black & Decker Inc,13
+ACCT0009926,Wolters Kluwer Financial Services Inc,10
+ACCT0009944,Axel Springer AG,7
+ACCT0009966,Monadelphous Properties Pty Ltd,12
+ACCT0009974,European Bank of Reconstruction & Development,6
+ACCT0009982,Penn State University,6
+ACCT0009986,"Amgen, Inc.",12
+ACCT0010000,Saint Louis University,8
+ACCT0010061,Texas A&M University System,6
+ACCT0010062,University Of Colorado At Boulder,16
+ACCT0010064,Colorado Seminary (University of Denver),6
+ACCT0010071,University of Texas at Austin,10
+ACCT0010086,Arizona State University,11
+ACCT0010087,Northern Arizona University,6
+ACCT0010113,"Scripps Networks Interactive, Inc.",12
+ACCT0010120,BT UK plc,7
+ACCT0010123,Rio Tinto,7
+ACCT0010139,Dartmouth College,8
+ACCT0010165,Ladbrokes,10
+ACCT0010173,Nomura Securities,6
+ACCT0010194,OP-Services Ltd,6
+ACCT0010198,Monitise Group Ltd,6
+ACCT0010216,Red Bull GmbH,6
+ACCT0010221,Capital Region BOCES,7
+ACCT0010230,Ahold European Sourcing BV,6
+ACCT0010245,Talanx AG,15
+ACCT0010250,Novelis Inc,6
+ACCT0010261,UW Health,7
+ACCT0010291,Consumers Energy Company,7
+ACCT0010292,Standard Life,6
+ACCT0010313,RMIT University,6
+ACCT0010314,New York State ITS,6
+ACCT0010346,Bauer Media Group,17
+ACCT0010358,Tullow Group Services Limited,6
+ACCT0010367,HVHC Inc,9
+ACCT0010395,NXP Semiconductors - Corporate,12
+ACCT0010401,Yodlee Inc,12
+ACCT0010415,eBay Inc,6
+ACCT0010416,Cooley LLP,6
+ACCT0010463,Weichert Realtors,9
+ACCT0010481,United Water Management and Services Inc.,6
+ACCT0010493,Montclair State University,6
+ACCT0010508,Brickman,6
+ACCT0010528,Ballard Spahr LLP,6
+ACCT0010542,Towers Watson,6
+ACCT0010553,ICON Clinical Research Inc,12
+ACCT0010569,MillerCoors LLC,7
+ACCT0010585,Nissan North America Inc,8
+ACCT0010592,University of Maryland University College,9
+ACCT0010596,Ricoh Americas Corporation,6
+ACCT0010602,Chick-fil-A Inc,6
+ACCT0010605,Genomic Health Inc,6
+ACCT0010610,"Ally Financial, Inc.",11
+ACCT0010614,Packers Plus Energy Services Inc.,16
+ACCT0010637,"Colorcon, Inc.",6
+ACCT0010646,American Century Services LLC,6
+ACCT0010658,Federal National Mortgage Association,6
+ACCT0010678,Soroc Technology Inc.,7
+ACCT0010685,Ashley Furniture Industries Inc,8
+ACCT0010686,Emerson Electric Co,7
+ACCT0010696,"Smartronix, Inc.",6
+ACCT0010699,Domo Inc,7
+ACCT0010712,North Carolina State University,11
+ACCT0010715,UnitingCare Queensland,6
+ACCT0010718,NHS Blood and Transplant,6
+ACCT0010730,Rainbow Media Holdings LLC,3
+ACCT0010732,Emergent BioSolutions Inc.,8
+ACCT0010737,Bank of Queensland Ltd,9
+ACCT0010738,Bond University Ltd,6
+ACCT0010743,Intercept-IT Ltd,7
+ACCT0010747,QEP Resources Inc,11
+ACCT0010752,Henderson Global Investors Ltd,9
+ACCT0010753,Bravura Solutions UK Ltd,6
+ACCT0010766,Oriental Trading Company Inc,7
+ACCT0010771,Connectis AG,16
+ACCT0010784,NetApp Engineering,8
+ACCT0010786,Enfo Oyj,10
+ACCT0010795,Suncorp Corporate Services Pty Ltd,6
+ACCT0010796,Inforsacom Informationssysteme GmbH,8
+ACCT0010809,APG Asset Management,9
+ACCT0010819,BSkyB Ltd,6
+ACCT0010824,Australia Post,8
+ACCT0010828,The University Of Auckland,6
+ACCT0010834,Abraxas Informatik AG,11
+ACCT0010835,Whitney Bank,7
+ACCT0010852,Interactive Intelligence Inc. (CaaS),11
+ACCT0010859,Agfa HealthCare NV,8
+ACCT0010873,Medxcel LLC,6
+ACCT0010895,International Financial Data Systems (UK) Ltd,7
+ACCT0010896,InComm,7
+ACCT0010913,Punter Southall Group,3
+ACCT0010914,Axway,7
+ACCT0010925,FleetCor Technologies Inc,6
+ACCT0010932,Washington University School of Medicine,9
+ACCT0010954,"CACI NSS, Inc.",6
+ACCT0010960,Natixis France,6
+ACCT0010976,Lewis Brisbois Bisgaard & Smith LLP,6
+ACCT0010990,Adapt Plc,7
+ACCT0010991,Abt Associates Inc.,6
+ACCT0010992,University Medical Center of Southern Nevada,18
+ACCT0010994,Broward Health,6
+ACCT0011028,Teach For America Inc,7
+ACCT0011031,MultiChannelNetwork Pty Ltd,6
+ACCT0011068,Mott MacDonald Ltd,7
+ACCT0011074,Thales Transportation Systems BV,9
+ACCT0011082,Trading Technologies,6
+ACCT0011086,Medibank Pvt Ltd,8
+ACCT0011105,WorleyParsons Pty Ltd,10
+ACCT0011124,National Research Corporation,9
+ACCT0011126,National Marrow Donor Program Inc,9
+ACCT0011147,s IT Solutions AT Spardat GmbH,11
+ACCT0011180,Wienerberger AG,6
+ACCT0011308,Syngenta Crop Protection AG,6
+ACCT0011398,ABB Ltd,6
+ACCT0011410,dorma+kaba International Holding AG,6
+ACCT0011447,SFS Services AG,8
+ACCT0011453,SBB AG,7
+ACCT0011911,Carl-Zeiss-Gruppe,8
+ACCT0011962,Sixt GmbH & Co. Autovermietung KG,8
+ACCT0012038,Richter + Frenzel GmbH + Co. KG,12
+ACCT0012116,Partners HealthCare System iNC,7
+ACCT0012126,Salem Health,10
+ACCT0012212,Baylor Scott & White Health,6
+ACCT0012457,Consulate Health Care (formerly CMC II),8
+ACCT0012489,Delhaize Group USA,6
+ACCT0012652,"Hard Rock Cafe International (USA), Inc.",7
+ACCT0012816,Memorial Health University Medical Center Inc,3
+ACCT0012889,Northeast Georgia Health System Inc,6
+ACCT0012914,"Otsuka America Pharmaceutical, Inc.",8
+ACCT0013128,The Nielsen Company (US) LLC,7
+ACCT0013288,"Bayview Asset Management, LLC",6
+ACCT0013295,Aaron's Inc,13
+ACCT0013314,Knorr-Bremse IT Services GmbH,5
+ACCT0013318,Academy Sports + Outdoors,6
+ACCT0013323,Macys.com,6
+ACCT0013333,BECU,6
+ACCT0013357,Moneris Solutions Corp,6
+ACCT0013370,SAI Global Ltd,6
+ACCT0013377,Telstra,6
+ACCT0013388,TPG Global LLC,6
+ACCT0013390,University Of Arkansas For Medical Sciences,6
+ACCT0013748,Capital Metropolitan Transportation Authority,8
+ACCT0013750,Cardtronics Inc,6
+ACCT0013970,Silicon Graphics International Corp,6
+ACCT0013986,Cars.com,8
+ACCT0013996,Independence BlueCross,6
+ACCT0014001,Synergy,10
+ACCT0014006,Coca-Cola Bottling Co. Consolidated,6
+ACCT0014014,"Axcess Financial Services, Inc.",6
+ACCT0014027,Oxford Brookes University,9
+ACCT0014060,PLUS Retail BV,9
+ACCT0014087,Coca Cola Erfrischungsgetr?ñnke GmbH (CCEG),8
+ACCT0014110,Riot Games Inc,9
+ACCT0014119,City of NY Department of Health and Mental Hygiene,6
+ACCT0014128,BHP Billiton,11
+ACCT0014138,DeVry Education Group,7
+ACCT0014165,Optus,6
+ACCT0014187,KU Medical Center,6
+ACCT0014188,Brinker International Inc,7
+ACCT0014190,BJC HealthCare,6
+ACCT0014222,University of Arkansas Little Rock,6
+ACCT0014231,Coop Danmark A/S,9
+ACCT0014232,Bestseller A/S,8
+ACCT0014240,Liaison Technologies Inc,17
+ACCT0014250,San Francisco International Airport,4
+ACCT0014252,CEC Entertainment Concepts LP,7
+ACCT0014256,Fonterra Ltd,6
+ACCT0014262,FirstBank Holding Company,11
+ACCT0014273,Nebula Oy,11
+ACCT0014302,Foster + Partners Ltd,9
+ACCT0014311,Tideworks Technology Inc,7
+ACCT0014312,Mars Information Services Inc,13
+ACCT0014337,Barclays,6
+ACCT0014338,Moneysupermarket.com,8
+ACCT0014351,Centric Netherlands BV,5
+ACCT0014354,Danske Bank AS,18
+ACCT0014357,DONG Energy Oil & Gas AS,6
+ACCT0014359,Arla Foods,6
+ACCT0014374,TopDanmark EDB A/S,12
+ACCT0014384,ECCO Sko A/S,6
+ACCT0014391,IG Group Ltd,11
+ACCT0014494,Chaucer Syndicates Limited,12
+ACCT0014534,Pearson plc,7
+ACCT0014585,Catamaran LLC,8
+ACCT0014720,Greenheck Fan Corp,6
+ACCT0014871,Southern Illinois Healthcare,7
+ACCT0014943,Border States Electric,12
+ACCT0014974,Capital Power Corporation,6
+ACCT0015010,Lightstream Resources Inc.,6
+ACCT0015020,SMS Equipment Inc,8
+ACCT0015055,Chartwell Mastercare LP,8
+ACCT0015065,D+H USA Corporation,9
+ACCT0015109,Liquor Control Board of Ontario,6
+ACCT0015128,Ontario Teachers' Pension Plan Board,11
+ACCT0015169,Canadian Tolling Company International Inc.,7
+ACCT0015458,Bonita GmbH & Co. KG,10
+ACCT0015462,WPX Energy Inc,12
+ACCT0015467,Cayuga Medical Center,6
+ACCT0015506,Colorado Public Employee Retirement Association,10
+ACCT0015507,ProBuild Holdings LLC,6
+ACCT0015508,ProLogis,7
+ACCT0015511,Terumo BCT,11
+ACCT0015522,Heineken International BV,6
+ACCT0015565,Auto Club Group,8
+ACCT0015568,Comerica Bank,6
+ACCT0015587,Zurich Insurance Company Ltd,6
+ACCT0015590,Kerry Group Plc,6
+ACCT0015598,Scottsdale Healthcare Corp,6
+ACCT0015603,Seattle Children's Hospital,2
+ACCT0015609,Clorox Company,11
+ACCT0015619,"MultiPlan, Inc.",8
+ACCT0015629,Osborne,6
+ACCT0015630,Cofely Nederland NV,11
+ACCT0015632,Menzis,9
+ACCT0015638,Cineworld,6
+ACCT0015654,"TWC Product and Technology, LLC.",7
+ACCT0015695,Credit Suisse Group AG,14
+ACCT0015703,Data Intensity Hosting,6
+ACCT0015707,CooperVision,8
+ACCT0015712,Bunnings Group Ltd,6
+ACCT0015715,Specsavers Optical Group Ltd,6
+ACCT0015721,Travis Perkins plc,6
+ACCT0015722,COWI AS,14
+ACCT0015737,OTC Markets Group Inc,7
+ACCT0015740,24 Solutions AB,7
+ACCT0015742,BYK Chemie GmbH,6
+ACCT0015743,RWE IT GmbH,13
+ACCT0015765,Florida State College at Jacksonville,2
+ACCT0015766,Electrolux IT Solutions AB,6
+ACCT0015768,Biffa Group Limited,7
+ACCT0015797,hybris GmbH,6
+ACCT0015806,Thule Sweden AB,14
+ACCT0015825,Gymboree Corporation,6
+ACCT0015842,SoftwareONE AG,9
+ACCT0015923,State of Texas Department of Transportation,6
+ACCT0015930,Lantm?ñnnen Ek For,7
+ACCT0015956,Formica Corporation,6
+ACCT0015959,European Space Agency ESA ESRIN,7
+ACCT0015960,GDF Suez Group,11
+ACCT0015974,Teliasonera Sverige AB,8
+ACCT0015976,Systembolaget AB,9
+ACCT0015979,Grantham Mayo Van Otterloo & Co LLC,7
+ACCT0015994,Halifax Regional Municipality,11
+ACCT0015999,Universal Music Group Inc,7
+ACCT0016014,The Bank Of New York Mellon Corp,6
+ACCT0016017,Schott AG,6
+ACCT0016043,ActewAGL,8
+ACCT0016045,Symbion Pharmacy,6
+ACCT0016129,Nets Denmark AS,12
+ACCT0016132,Saxo Bank AS,13
+ACCT0016137,The Maschhoffs Inc,6
+ACCT0016142,Eide Bailly LLP,6
+ACCT0016393,Key Food Stores Co-Op Inc,18
+ACCT0016441,Holy Redeemer Health System Inc,6
+ACCT0016582,Broad Institute Inc,6
+ACCT0016594,CoreSite LP,6
+ACCT0016605,Ironwood Pharmaceuticals Inc,6
+ACCT0016618,South West Water Ltd,10
+ACCT0016683,National Roads and Motorists' Association,7
+ACCT0016688,UK Power Networks (Operations) Ltd,6
+ACCT0016692,Glas Cymru Cyfyngedig (Welsh Water),11
+ACCT0016701,AstraZeneca UK Ltd,7
+ACCT0016705,Press Ganey Associates Inc,9
+ACCT0016709,ACT Shared Services,6
+ACCT0016716,Team Industrial Services,6
+ACCT0016773,Techem Energy Services GmbH,6
+ACCT0016801,Dimensional Fund Advisors LP,8
+ACCT0016808,Creative Artists Agency LLC,6
+ACCT0016814,NAIT (Northern Alberta Institute of Technology),13
+ACCT0016863,ATEA A/S (Statens IT),7
+ACCT0016878,"Gavilon Group, LLC",6
+ACCT0016882,"Westcon Group, Inc.",6
+ACCT0016987,Bupa Australia Pty Ltd,9
+ACCT0016998,Fletcher Building Ltd,6
+ACCT0017011,Tommy Bahama Group Inc,6
+ACCT0017023,Euromoney Institutional Investor Plc,6
+ACCT0017037,Mission Australia,9
+ACCT0017042,East Midlands Ambulance Service NHS Trust (EMAS),11
+ACCT0017046,The Ultimate Software Group Inc,7
+ACCT0017072,Devoteam A/S (Region Hovedstaden),6
+ACCT0017073,Maricopa Integrated Health System,7
+ACCT0017080,Veolia Environment (FR),14
+ACCT0017090,SUNY Empire State College,12
+ACCT0017109,Post Telecom SA,8
+ACCT0017110,MacMillan Publishers Ltd,6
+ACCT0017113,P??yry Oyj,6
+ACCT0017119,NHS Oldham Clinical Commissioning Group,6
+ACCT0017125,Co-operators Financial Services Limited,6
+ACCT0017134,SITA Australia Pyt Ltd,6
+ACCT0017143,Conforama France,6
+ACCT0017153,Australian Unity Group Services Pty Ltd,14
+ACCT0017161,Nynas AB,6
+ACCT0017173,National House-Building Council (NHBC),7
+ACCT0017183,DVB Bank SE,6
+ACCT0017186,Devoteam AS (DR Radio),7
+ACCT0017188,Softential Inc,6
+ACCT0017193,California Department of Industrial Relations,7
+ACCT0017197,Technip,6
+ACCT0017214,Credit Agricole Silca,7
+ACCT0017232,Sogeti,8
+ACCT0017246,Liverpool University,8
+ACCT0017254,Laird Technologies Inc,8
+ACCT0017328,Borgata Hotel Casino and Spa,10
+ACCT0017486,AAA Mid-Atlantic Inc,6
+ACCT0017755,BDO Canada LLP,12
+ACCT0017894,Johnsonville Sausage LLC,6
+ACCT0017914,Statoil ASA,8
+ACCT0018016,Katten Muchin Rosenman LLP,6
+ACCT0018079,Verint Systems Inc,7
+ACCT0018093,Digital Federal Credit Union,6
+ACCT0018164,Wipfli LLP,6
+ACCT0018194,Noblis Inc,6
+ACCT0018213,Gateway Health Plan LP,6
+ACCT0018216,Gaz Metropolitain LP,6
+ACCT0018221,Equitable Life Insurance Company of Canada,13
+ACCT0018227,ESL Federal Credit Union,8
+ACCT0018292,AAA Allied Group Inc,14
+ACCT0018353,Lyonnaise des Eaux,6
+ACCT0018366,Galeries Lafayette,6
+ACCT0018368,Groupe Canal Plus,6
+ACCT0018378,Conseil d??partemental du Haut-Rhin (CD68),6
+ACCT0018392,Fixnetix Ltd,8
+ACCT0018521,Alten,7
+ACCT0018567,IMAD,6
+ACCT0018609,Dalkia,6
+ACCT0018634,ERAMET,8
+ACCT0018690,ASL Airlines France (former Europe Airpost),3
+ACCT0018736,ESTA VIC Pty Ltd,11
+ACCT0018737,Soci??t?? G??n??rale CIB (Market),6
+ACCT0018742,INA (Institut National de L'Audiovisuel),7
+ACCT0018771,LFDJ (La Fran?ºaise Des Jeux),8
+ACCT0018789,MFP Michelin,6
+ACCT0018827,RATP,11
+ACCT0018858,STIME,17
+ACCT0018880,Television Francaise TF1 (TF1 SA),4
+ACCT0018890,Western NY Regional Information Center (WNYRIC),7
+ACCT0018901,Schwarz IT Infrastructure & Operations Services,12
+ACCT0018920,Meridian Credit Union Ltd,6
+ACCT0018931,SUNY Oswego,6
+ACCT0018935,Datametrix AS,6
+ACCT0018943,IPCA,7
+ACCT0018948,Patek Philippe,6
+ACCT0018975,Orbis Investments Canada Ltd,8
+ACCT0018992,"Vce Company, LLC",10
+ACCT0019016,Akzo Nobel NV,6
+ACCT0019026,Perth Airport,6
+ACCT0019043,RACWA Holdings Pty Ltd,6
+ACCT0019065,VMware Corporate,6
+ACCT0019109,MidCountry Bank,6
+ACCT0019115,University of Western Sydney,18
+ACCT0019134,Department of Work and Pensions,6
+ACCT0019162,Nominet Ltd,6
+ACCT0019176,Teradata Corporate IT,7
+ACCT0019181,Old Republic Title,10
+ACCT0019211,ING DiBa AG,6
+ACCT0019233,B2W Companhia Digital,12
+ACCT0019238,MSC Mobility,8
+ACCT0019269,H??egh Autoliners,6
+ACCT0019280,Boardwalk Pipelines LP,6
+ACCT0019322,BAE Systems UK,9
+ACCT0019324,Maersk Line UK Ltd,6
+ACCT0019359,Inpex,6
+ACCT0019374,GIE Informatique CECAB,6
+ACCT0019444,AmerisourceBergen Services Corporation,12
+ACCT0019574,Tullett Prebon Group Ltd,11
+ACCT0019602,M??lnlycke Health Care AB,7
+ACCT0019608,W?ñrtsil?ñ Corporation,13
+ACCT0019611,Societe Des Alcools Du Quebec SAQ,13
+ACCT0019638,Catholic Education Office WA,6
+ACCT0019639,University Of Wollongong,7
+ACCT0019664,Asciano Group,6
+ACCT0019713,"Enterprise Integration Services, Inc. dba Consolidated Communications",7
+ACCT0019714,Taft Stettinius & Hollister LLP,7
+ACCT0019725,Handelsh??yskolen BI,7
+ACCT0019737,Salt Lake City Government,6
+ACCT0019741,Monroe Plan,8
+ACCT0019803,Elster Energy ICT,12
+ACCT0019809,IQNavigator Inc,6
+ACCT0019827,University of North Georgia,6
+ACCT0019828,Thomas Miller & Co Ltd,6
+ACCT0019860,Sweco AB,9
+ACCT0019929,Coca-Cola (Turkey),6
+ACCT0019947,Airports Company South Africa,9
+ACCT0019949,NYK Logistics North America Inc - NBSA,6
+ACCT0020043,Service Innovation Pty Ltd,15
+ACCT0020078,Green Mountain AS,6
+ACCT0020102,ABC Financial,6
+ACCT0020106,Officeworks Ltd,6
+ACCT0020154,Arrow Energy Pty Ltd,6
+ACCT0020173,Best Buy Purchasing LLC,11
+ACCT0020193,Service Stream Ltd,6
+ACCT0020195,Parks Victoria,6
+ACCT0020200,THALES Global Services SAS,9
+ACCT0020213,LVMH Watches & Jewelry Australia,10
+ACCT0020219,Government Legal Department,10
+ACCT0020259,SUNY ITEC,6
+ACCT0020303,Universal Hospital Services Inc,15
+ACCT0020345,Finanz Informatik GmbH & Co KG,9
+ACCT0020346,AXA Technology Services UK Ltd,6
+ACCT0020395,Coca-Cola Amatil Ltd,6
+ACCT0020401,UGL Ltd,6
+ACCT0020402,Treasury NSW,12
+ACCT0020442,Cairns Regional Council,11
+ACCT0020463,Fairfax Media,12
+ACCT0020472,Santos Ltd,6
+ACCT0020486,Public Transport Authority WA,6
+ACCT0020500,Cleanaway Waste Management Limited,7
+ACCT0020512,Kinetic IT - Water Corporation,6
+ACCT0020544,University Of Melbourne,6
+ACCT0020594,Merlin Entertainments Group Ltd,6
+ACCT0020608,BNP Paribas Investment Partners,6
+ACCT0020609,BNP Paribas Securities Services (BP2S),6
+ACCT0020612,BNP Paribas Cardif,6
+ACCT0020618,"American Foods Group, LLC",1
+ACCT0020625,"University of Technology, Sydney",6
+ACCT0020628,Optiver,7
+ACCT0020718,IF IT Services A/S,7
+ACCT0020719,Good Technology Corp,6
+ACCT0020736,Fitness First Clubs Ltd,12
+ACCT0020745,St. Mary's College of California,12
+ACCT0020771,Intergraph Corporation,11
+ACCT0020787,Truven Health Analytics Inc,6
+ACCT0020803,Compass Group Australia Pty Ltd,6
+ACCT0020827,APA Group,6
+ACCT0020844,Aristocrat Technologies Australia Pty Ltd,8
+ACCT0020872,Deloitte Australia (Customer),6
+ACCT0020876,Quadrant Energy Pty Ltd,7
+ACCT0020891,AngloGold Ashanti,11
+ACCT0020905,Mazda Motor Logistics Europe NV,12
+ACCT0020913,Synapsis IT,6
+ACCT0020978,Charles Taylor PLC,6
+ACCT0021029,Diplomat Specialty Pharmacy Of Flint LLC,13
+ACCT0021030,University of Sunshine Coast QLD,12
+ACCT0021031,NIC Inc.,18
+ACCT0021058,Ervia,6
+ACCT0021065,CVent Inc,18
+ACCT0021080,CS Energy Ltd,12
+ACCT0021116,University of Tasmania,6
+ACCT0021138,Massachusetts Bay Transportation Authority,6
+ACCT0021156,RACQ Investments Pty Ltd,9
+ACCT0021176,RKON Technologies,10
+ACCT0021182,Mark Anthony Group Inc,7
+ACCT0021191,NWN Corporation,10
+ACCT0021203,Voxai Solutions Inc,6
+ACCT0021283,Com Hem AB,10
+ACCT0021297,Coop Norway,6
+ACCT0021344,Sprouts Farmers Market Inc,13
+ACCT0021346,"Interactive Intelligence Group, Inc. (CORP)",6
+ACCT0021362,TrelleborgVibracoustic GmbH,13
+ACCT0021365,Mellanox Technologies Ltd,6
+ACCT0021372,Vitality Health Insurance Ltd,6
+ACCT0021403,Scotia Bank,6
+ACCT0021418,TTC Travel Group Limited,7
+ACCT0021420,BioClinica,8
+ACCT0021431,Goteborgs Stad,7
+ACCT0021432,Velux AS,6
+ACCT0021447,K??benhavns Lufthavne A/S,6
+ACCT0021509,NSW Rural Fire Service,7
+ACCT0021569,Office for National Statistics,6
+ACCT0021597,AgStar Financial Services,6
+ACCT0021619,Maersk Olie og Gas A/S,12
+ACCT0021621,EDF Trading Ltd,8
+ACCT0021648,Partners Group AG,6
+ACCT0021655,Department of Justice,12
+ACCT0021657,Research And Education Advanced Network New Zealand REANNZ,14
+ACCT0021660,ING Group NV,11
+ACCT0021684,Phillips66,14
+ACCT0021705,Apollo Management Holdings L.P.,6
+ACCT0021716,Gatwick Airport Ltd,9
+ACCT0021740,WIND Mobile Corp.,6
+ACCT0021790,Bravonext SA [Formerly Lastminute.com Ltd],8
+ACCT0021810,Royal Automobile Association SA,6
+ACCT0021833,BlueCrest Capital Management UK LLP,7
+ACCT0021859,Australian Prudential Regulation Authority,12
+ACCT0021884,Autoliv AB (UK),6
+ACCT0021997,University of California - Office of the President - Risk Services,7
+ACCT0022036,Elementis Worldwide Inc,18
+ACCT0022061,ZeniMax Online Services,12
+ACCT0022093,SchoolsFirst FCU,6
+ACCT0022123,NextDC Ltd,7
+ACCT0022179,Norconsult AS,8
+ACCT0022223,Cegal AS,12
+ACCT0022247,"MINDBODY, Inc.",8
+ACCT0022282,Goodwill AZ,6
+ACCT0022285,Crelan NV,6
+ACCT0022301,Aurecon Group Pty Ltd,6
+ACCT0022340,TDC Hosting AS,11
+ACCT0022359,Damco,8
+ACCT0022363,Amcom Telecommunications Ltd,5
+ACCT0022386,Axstores AB,6
+ACCT0022398,University of Cape Town,3
+ACCT0022504,Edith Cowan University,12
+ACCT0022522,Touring Club Suisse TCS,8
+ACCT0022537,Nyrstar,6
+ACCT0022604,Oxford Health NHS Foundation Trust,6
+ACCT0022617,Umass Boston,6
+ACCT0022720,National E Conveyencing Development Ltd,7
+ACCT0022729,Oregon Community Credit Union,7
+ACCT0022739,Lunds University,11
+ACCT0022835,Travian Games GmbH,12
+ACCT0022867,The Brock Group LLC,6
+ACCT0022893,Experian Cheetah Mail,6
+ACCT0022895,Random House Inc,6
+ACCT0022903,"Greystone IT, Inc.",6
+ACCT0022917,"OHL - (Obrascon Huarte Lain, S.A.)",11
+ACCT0022930,Allianz Life Insurance Company of North America,8
+ACCT0022992,SABMiller plc.,6
+ACCT0023015,PEAK-IT Managed Services B.V.,6
+ACCT0023024,"Southern Graphic Systems, Inc.",6
+ACCT0023117,Guidewire Software Inc,6
+ACCT0023195,Irdeto BV,12
+ACCT0023237,Deloitte Canada (Customer),6
+ACCT0023238,Stratasys Inc.,6
+ACCT0023295,Viking LIFE-SAVING EQUIPMENT A/S,6
+ACCT0023323,People's Choice Credit Union,6
+ACCT0023332,Etat Du Valais,7
+ACCT0023354,Optus VSAT,9
+ACCT0023360,ALH Group Pty Ltd,15
+ACCT0023362,AXIT AG,6
+ACCT0023364,INSEAD,6
+ACCT0023398,University of California Davis - Campus Data Center,6
+ACCT0023402,Schibsted Centralen AB,6
+ACCT0023441,Telstra International Limited,6
+ACCT0023442,"Datavail Corporation, Inc.",13
+ACCT0023479,Energinet.DK,6
+ACCT0023490,Vita-Mix Corp,6
+ACCT0023510,ING Services Polska Sp Zoo,11
+ACCT0023511,GN Store Nord AS,6
+ACCT0023526,Ecole Polytechnique Federale De Lausanne EPFL,10
+ACCT0023532,Group Health Cooperative of South Central Wisconsin,6
+ACCT0023560,Endava UK Ltd,6
+ACCT0023587,RedBrick Health Corp,7
+ACCT0023646,MODEC International Inc,6
+ACCT0023653,Little Caesars Enterprises Inc,6
+ACCT0023659,"Department of Environment, Land, Water & Planning",7
+ACCT0023668,"Nexant, Inc.",6
+ACCT0023711,CHAMP Cargosystems SA,14
+ACCT0023740,Yusen Logistics Americas Inc,11
+ACCT0023750,Investcorp Bank BSC,6
+ACCT0023786,Calmac Ferries Ltd,6
+ACCT0023790,Old Mutual Life Assurance Company (South Africa) Limited,18
+ACCT0023829,Service NSW,6
+ACCT0023847,Global Fund,6
+ACCT0023849,County Of Monterey,6
+ACCT0023857,Tesco Personal Finance Plc,6
+ACCT0023867,Tableau Software Inc,12
+ACCT0023884,Sollentuna Kommun,7
+ACCT0023919,Abu Dhabi National Energy Co PJSC TAQA,7
+ACCT0023922,APG Groep N.V,10
+ACCT0023925,University System of Georgia,6
+ACCT0023958,LaTrobe University,6
+ACCT0023972,The Francis Crick Institute Ltd,6
+ACCT0023993,Yazaki Europe Ltd,8
+ACCT0024011,TomTom International BV,6
+ACCT0024034,Universitetet I Agder,7
+ACCT0024043,Northbridge Financial Corp,6
+ACCT0024046,Tourism Development & Investment Co,6
+ACCT0024076,Kantonsspital Aarau AG,8
+ACCT0024129,Nationwide Building Society (Group),6
+ACCT0024130,"Plaza Home Mortgage, Inc.",6
+ACCT0024133,Nexen Petroleum U.S.A. Inc.,6
+ACCT0024135,DMI Inc,10
+ACCT0024180,Pennsylvania Turnpike Commision,6
+ACCT0024181,MasterControl Inc,6
+ACCT0024186,SR op??rations SA,14
+ACCT0024195,Radford University,7
+ACCT0024216,Panoptics Ltd,6
+ACCT0024222,Novabase,7
+ACCT0024238,European Spallation Source ERIC,6
+ACCT0024257,Queensland Department of Science Information Technology Innovation & Arts,7
+ACCT0024271,Service Experts,6
+ACCT0024308,Dallas/Fort Worth International Airport,6
+ACCT0024311,AVG Technologies CZ sro,7
+ACCT0024344,Rolls Royce Controls and Data Services Ltd (CDS) (Former OSyS),6
+ACCT0024345,Qliktech,6
+ACCT0024355,Greater Orlando Aviation Authority,6
+ACCT0024363,Neisa Nordic AB,6
+ACCT0024372,KGHM International Ltd,11
+ACCT0024382,Pan-American Life Insurance Company,8
+ACCT0024387,INRA,7
+ACCT0024408,Ministry of Health NSW,10
+ACCT0024410,Union Solutions Ltd,6
+ACCT0024470,"The Housing Authority of the City of Atlanta, Georgia",6
+ACCT0024472,NISA Investment Advisors LLC,7
+ACCT0024547,BRF Foods,7
+ACCT0024582,E-Global,8
+ACCT0024597,PanAust Services Pty Ltd,2
+ACCT0024600,Legal & General Investment Management,7
+ACCT0024605,PGDS (UK One) Ltd,9
+ACCT0024608,Foxtel IT,18
+ACCT0024671,Sem PARAR,6
+ACCT0024696,Infor Global Solutions SaaS Division,12
+ACCT0024742,University of Leeds,6
+ACCT0024750,Stowers Institute For Medical Research,6
+ACCT0024754,University of Bradford,6
+ACCT0024773,Mokum Change Management Ltd,16
+ACCT0024848,Hess Corporation,6
+ACCT0024874,Coles Supermarkets,6
+ACCT0024898,Styrolution Group GmbH,10
+ACCT0024907,Texas Comptroller of Public Accounts,15
+ACCT0025031,Wilmar International Ltd,6
+ACCT0025058,Leumi Bank Ltd,9
+ACCT0025080,TransAction Solutions Ltd,6
+ACCT0025100,Comcast Interactive Media,6
+ACCT0025103,Ascenty Telecomunicacoes Ltda,6
+ACCT0025122,Denner AG,9
+ACCT0025135,National Student Financial Aid Scheme NSFAS,7
+ACCT0025146,AIA Group Limited,6
+ACCT0025147,Melco Crown Entertainment Ltd,7
+ACCT0025149,DL Groupe,8
+ACCT0025189,Hertshten Group Limited,10
+ACCT0025192,BAE Systems Maritime -  Naval Ships,11
+ACCT0025203,SRA (Internal IT),6
+ACCT0025224,Driver & Vehicle Licensing Agency,6
+ACCT0025295,Chr. Hansen Holding A/S,11
+ACCT0025313,Bodycote Plc,10
+ACCT0025317,Harvard Business School,6
+ACCT0025334,Harvard Medical School,13
+ACCT0025387,Targetbase,9
+ACCT0025392,Coca-Cola Business Service Ltd Japan,9
+ACCT0025428,KPMG LLP UK,18
+ACCT0025462,Prudential Services Singapore Pte. Ltd.,6
+ACCT0025539,Southern Cross Computer Systems Pty Ltd,8
+ACCT0025605,Financial Conduct Authority,6
+ACCT0025636,Banca Popolare di Sondrio,6
+ACCT0025643,Nexeo Solutions LLC,6
+ACCT0025645,MGM Macau,6
+ACCT0025658,Vocus Communications Ltd,8
+ACCT0025671,"Fedex Corporate Services, Inc",6
+ACCT0025673,Federation University Australia,6
+ACCT0025713,"Mizuho Securities Co., Ltd.",15
+ACCT0025715,Binleumi Bank (FIBI),10
+ACCT0025767,University of Toronto Mississauga,15
+ACCT0025799,Lombardia Gestione SRL,6
+ACCT0025812,Catawba Valley Medical Center Inc,5
+ACCT0025886,NCC AB,6
+ACCT0025887,"AbbVie, Inc.",7
+ACCT0025911,IGS Energy Inc,6
+ACCT0025921,Chanel Hong Kong - APAC,11
+ACCT0025941,Downer Group,11
+ACCT0025942,Intersect Australia Ltd,7
+ACCT0025949,Tricentis Technology & Consulting GmbH,10
+ACCT0025972,ForeScout Technologies Inc,8
+ACCT0025999,Education Bureau,11
+ACCT0026027,ChenMed LLC,6
+ACCT0026033,Avago Technologies International Sales Pte Limited,10
+ACCT0026054,University of California Berkeley - Campus Shared Services,10
+ACCT0026078,Coca-Cola Company - CONA,6
+ACCT0026093,Fincantieri Spa,6
+ACCT0026099,Pure Storage Inc,9
+ACCT0026147,Cancer Institute NSW,12
+ACCT0026230,City Of Windsor,9
+ACCT0026231,Franklin County,16
+ACCT0026320,QD Sverige AB,8
+ACCT0026338,North West Redwater Partnership,6
+ACCT0026344,MIT Sloan School of Management,17
+ACCT0026351,City of Minneapolis,6
+ACCT0026378,Risk Management Solutions Inc (RMS),6
+ACCT0026380,One Housing Group Ltd,9
+ACCT0026385,Snow Software AB,6
+ACCT0026408,Six Degrees Group,9
+ACCT0026412,Comcast Ecommerce,6
+ACCT0026423,Toyota Canada Inc.,7
+ACCT0026425,Dell MSP - Crossmark Inc.,6
+ACCT0026438,Tieto Sweden AB,6
+ACCT0026449,Condeco Limited,9
+ACCT0026460,Cisel Informatique,6
+ACCT0026461,TOMS Shoes Inc,6
+ACCT0026477,Carfax Inc,6
+ACCT0026483,BDNA Corporation,6
+ACCT0026485,VMWare - MBU SaaS,6
+ACCT0026527,Regional Transportation District,6
+ACCT0026531,TAL Life,7
+ACCT0026573,Qiagen GmbH,6
+ACCT0026626,The Bank of Tokyo-Mitsubishi UFJ Ltd,9
+ACCT0026735,Aconex,11
+ACCT0026772,Safeguards G4S Sdn Bhd,12
+ACCT0026810,St Charles County Government,7
+ACCT0026846,Nissan International SA,14
+ACCT0026889,Orbotech Ltd,7
+ACCT0026897,Nike - Digital,7
+ACCT0026935,Orora Packaging Australia,6
+ACCT0026936,Commonwealth of PA - Labor and Industry Agency,7
+ACCT0026938,CLEAResult Consulting Inc,15
+ACCT0027016,Fingrid Oyj,18
+ACCT0027079,McGraw-Hill Global Education Holdings LLC,6
+ACCT0027080,PCTI Solutions Ltd,6
+ACCT0027128,Fast Retailing Co Ltd,8
+ACCT0027357,Bank Of Ireland,6
+ACCT0027395,Maaden Saudi Arabian Mining Co,16
+ACCT0027458,Campus Management Corp.,9
+ACCT0027485,Stratus Technologies - IT Infrastructure & Services,6
+ACCT0027488,SoloHealth Inc,6
+ACCT0027495,GMAC UK Plc,9
+ACCT0027522,Prudential Group Insurance,17
+ACCT0027540,Hitachi Data Systems (HDS),11
+ACCT0027549,Alternative Networks Plc,6
+ACCT0027557,McKinsey & Company Inc. GmbH,10
+ACCT0027558,SEGES,8
+ACCT0027574,NTT Com Security (Germany) GmbH,6
+ACCT0027577,White Clarke Group Ltd,6
+ACCT0027621,Cumbria County Council,9
+ACCT0027631,Teacher's College Columbia University,9
+ACCT0027868,CNHI International SA,6
+ACCT0027871,Infosys - Bombardier,6
+ACCT0027884,"Corporativo Bimbo ,S.A. de C.V.",13
+ACCT0028019,TMB Bank PCL,3
+ACCT0028440,CIECH S A,6
+ACCT0028443,"Forum Energy Technologies, Inc.",6
+ACCT0028989,Macnica Inc,9
+ACCT0029651,El Al Israel Airlines Ltd,7
+ACCT0030110,Inter IKEA Systems BV,12
+ACCT0030591,Galliford Try Plc,6
+ACCT0031055,Sisk Group,14
+ACCT0031127,Vifor (International) AG,9
+ACCT0031146,Wavex Technology Limited,15
+ACCT0031149,Novitex,6
+ACCT0031191,Infosys Limited - UCAS,10
+ACCT0031215,Mediobanca Innovation Services SCPA,7
+ACCT0031239,Eagle Brook Church,6
+ACCT0031277,Playtika Ltd,7
+ACCT0031323,Wynn Resorts Macau SA,6
+ACCT0031398,Network Services Norden AB,6
+ACCT0031422,Gentherm Inc,9
+ACCT0031579,Murata Manufacturing Co Ltd,6
+ACCT0031601,Orange Cloud Business - Declic,6
+ACCT0031771,State Teachers Retirement System of Ohio,6
+ACCT0031775,Evry Sweden,6
+ACCT0031784,Maurice Blackburn Lawyers,7
+ACCT0031806,C Spire Wireless,6
+ACCT0031810,Watermark Estate Management Services LLC,17
+ACCT0031819,Synchrony Financial,7
+ACCT0031880,Cemex Central SA De CV,6
+ACCT0032271,Suzano Papel E Celulose SA,8
+ACCT0032548,Halyard Health (Avent),6
+ACCT0032552,Apotek 1 Kjeden,11
+ACCT0032574,VMWare E2E,10
+ACCT0032578,Costco Spain,6
+ACCT0032585,MJ Flood Ltd,6
+ACCT0032593,Dallas County Community College District,6
+ACCT0032599,Olswang LLP,6
+ACCT0032623,Coca-Cola Enterprises Inc,9
+ACCT0032624,Coach IT,7
+ACCT0032641,Mediro ICT (Samancor Chrome Ltd),6
+ACCT0032649,Aeroports De Montreal,15
+ACCT0032678,TAL Apparel Limited,10
+ACCT0032739,Johns Hopkins University Medical,6
+ACCT0032777,UMB AG,13
+ACCT0032784,WalMart.com USA LLC,10
+ACCT0032804,Autodesk - Cloud Operations,6
+ACCT0032814,Hulu LLC,6
+ACCT0032828,Carlson Wagonlit Travel Inc.,6
+ACCT0032837,MTI Technology Ltd,1
+ACCT0032896,Atea Global Services Ltd,9
+ACCT0032915,CISIRH (former Operateur National de Paye),14
+ACCT0032939,New Belgium Brewery,7
+ACCT0032941,Group O Inc,6
+ACCT0033012,Secure-24 - Western Alliance Bancorporation,8
+ACCT0033091,Euronext Technologies Limited,7
+ACCT0033134,Hospira Corporate,6
+ACCT0033180,SunGard - Gate Group,7
+ACCT0033188,TK Holdings Inc,6
+ACCT0033303,Creval Sistemi e Servizi Soc.Cons.P.A.(Former Bankadati),6
+ACCT0033325,Oportun,6
+ACCT0033326,KPMG AG,9
+ACCT0033363,"ONE Gas, Inc.",6
+ACCT0033371,Wintershall Norge AS,8
+ACCT0033385,Pickles Auctions PTY Limited,18
+ACCT0033395,United Network For Organ Sharing,7
+ACCT0033461,The Midcounties Co-Operative Ltd,7
+ACCT0033470,International Baccalaureate Organization (Singapore Branch),6
+ACCT0033492,Auditmacs,6
+ACCT0033503,EMC Corporation (Customer),6
+ACCT0033556,United Energy Distribution Pty Ltd and Multinet Gas Distribution Partnership,6
+ACCT0033591,Five Star Quality Care,6
+ACCT0033611,Murphy USA,8
+ACCT0035706,Ricoh Europe Plc,9
+ACCT0035717,MGF Sourcing Far East Ltd,12
+ACCT0035723,Toyota Motor Corp,6
+ACCT0035762,UMass Medical School,6
+ACCT0035835,Multi-Color Corporation,15
+ACCT0035843,"Cognita Schools, Asia",6
+ACCT0035850,Suffolk Bancorp,8
+ACCT0035880,iConectiv ?Çô NPAC,6
+ACCT0035882,PDT Partners LLC,6
+ACCT0035909,Prudential Financial GBTS,7
+ACCT0035924,NextGear Capital Inc,7
+ACCT0035932,Translink Systems BV,6
+ACCT0035937,OrganizeIT- MSP,7
+ACCT0037153,Bechtel Corporation-Reston,7
+ACCT0037284,"VCE Company, LLC - Engineering",6
+ACCT0037348,KPMG Canada,7
+ACCT0037394,"Queensland Department of Infrastructure, Local Government and Planning",6
+ACCT0037417,Royal Bank of Scotland - Technology Services,8
+ACCT0037659,Hitachi Solutions UK,6
+ACCT0037696,Placer County,6
+ACCT0037714,Coles IT,10
+ACCT0037727,University Of Texas At Tyler,6
+ACCT0037731,EMC EMSD Labs,6
+ACCT0038084,"Welltok, Inc",10
+ACCT0038099,Exponential-E Ltd,6
+ACCT0038161,CoverMore Insurance Services Pty Ltd,7
+ACCT0038180,WorldPay UK Ltd,6
+ACCT0038276,HCL - Entergy,6
+ACCT0038312,TPC Group Inc,6
+ACCT0038348,Scorpio Commercial Management,7
+ACCT0038390,Sungard - Nortek,6
+ACCT0038400,Dell DCS - Microsoft,6
+ACCT0038410,Loews Hotels and Resorts,8
+ACCT0038435,Infosys - Ricoh UK,9
+ACCT0038436,Robertshaw,11
+ACCT0038440,NHS Education for Scotland,6
+ACCT0038450,Cubic Transportation Systems Inc,6
+ACCT0038475,KPMG Intl LLP,6
+ACCT0038755,The London Clinic,12
+ACCT0038757,AudioNova International BV,15
+ACCT0038839,Tyler Junior College,6
+ACCT0038847,Esp Global Services Ltd,6
+ACCT0038859,Ikusi Micronet SA De CV,7
+ACCT0038903,Procter and Gamble - BPS,11
+ACCT0039459,T Rowe - ERM,6
+ACCT0039480,Burckhardt Compression AG,6
+ACCT0039482,Generali Infrastructure Services S.c.a.r.l. Zweigniederlassung Deutschland i.G,6
+ACCT0039591,Nowcom Corp,6
+ACCT0039597,Corgan Associates Inc,6
+ACCT0039634,HCL - Outokumpu,8
+ACCT0039726,INSEARCH Ltd,6
+ACCT0039729,HCL - Adecco,9
+ACCT0039734,OpusCapita Group Oy,10
+ACCT0039754,Hubo Belgie NV,9
+ACCT0039756,HCL - Anglo American,6
+ACCT0039757,HCL - XYZ,6
+ACCT0039769,HCL (Multi Tenant),11
+ACCT0039771,HCL - Nokia,6
+ACCT0039775,HCL - UPM,6
+ACCT0039816,Phoenix Data Center Hosting Services PDCHS,6
+ACCT0039833,ICON Aircraft Inc.,6
+ACCT0039894,Alabama Department of Human Resources,7
+ACCT0039926,CCB Management Services GmbH,12
+ACCT0040009,Acora Ltd,12
+ACCT0040154,PT Teltranet Aplikasi Solusi,6
+ACCT0040165,MSC Cruises SA,13
+ACCT0040176,Capgemini Technology Services ?Çô ITICS,6
+ACCT0040177,Capgemini Technology Services ?Çô AppsFrance,9
+ACCT0040262,ValueLabs Global Solutions Pte Ltd,11
+ACCT0040308,Tech Mahindra - Ahlstrom Corporation,6
+ACCT0040418,Orange Applications for Business - Pole Emploi,14
+ACCT0040532,Midlothian Council,9
+ACCT0040609,Tesco Lotus,17
+ACCT0040629,IBM - InterContinental Hotel Group,7
+ACCT0040631,Inergex - Veyance,7
+ACCT0040687,Technae,6
+ACCT0040710,Fujitsu - Eurocontrol,7
+ACCT0048655,Orange SA - Total,7
+ACCT0048683,Cognizant - NVIDIA,6
+ACCT0048690,Masco Contractor Services,6
+ACCT0048699,IBM (ISM),13
+ACCT0048703,HCL - EFH,8
+ACCT0048706,HCL - Cox,6
+ACCT0048707,HCL - Anthem,6
+ACCT0048708,HCL - Rockwell,8
+ACCT0048762,Cygate AB,9
+ACCT0048784,Vivint Solar Inc,10
+ACCT0048820,Ikano SA,10
+ACCT0052588,Sogeti USA LLC,6
+ACCT0055457,Horizon North Logistics Inc,6
+ACCT0056712,Ocwen Financial Corp,6
+ACCT0057745,Southwest Business Corp,6
+ACCT0059067,Department For Education,8
+ACCT0059075,Costco Travel,6
+ACCT0059222,Anchor Computer Systems Ltd,13
+ACCT0059273,HCL - AARP,6
+ACCT0059299,Registers of Scotland,6
+ACCT0059388,BlueBird Bio Inc,17
+ACCT0059399,Bluetooth SIG Inc,7
+ACCT0064091,Cisco AMP,6
+ACCT0064095,Alliance Health,12
+ACCT0064143,IMI Mobile,7
+ACCT0064172,Queensland Treasury,6
+ACCT0064317,Sofigate Services Oy (Valtori Oy),8
+ACCT0064409,Upper Peninsula Power Company (UPPCO),6
+ACCT0064429,Trondheim Kommune,10
+ACCT0064448,Intercept Pharmaceuticals Inc,6
+ACCT0064512,Driver Vehicle Standards Agency,7
+ACCT0064534,PayPal Inc,8
+ACCT0064536,Stratose LLC,6
+ACCT0064589,Toshiba I S Corporation,6
+ACCT0064600,Carl Zeiss SMT GmbH,16
+ACCT0064618,Infosys - Qinterra,6
+ACCT0064647,ING Commercial Banking,6
+ACCT0064676,Khan Bank Corp,6
+ACCT0064677,Benesse InfoShell Co Ltd,7
+ACCT0064731,Nielsen & Nielsen Holding AS,6
+ACCT0064769,Queensland Health - Clinical Information Systems Support Unit,6
+ACCT0064780,Medicines And Healthcare Products Regulatory Agency MHRA,16
+ACCT0064825,Corte Dei Conti,11
+ACCT0064846,IBM - Air Canada,10
+ACCT0064851,KPN Corporate Market - Nederlandse Spoorwegen,7
+ACCT0064915,Ikano Bank AB,7
+ACCT0065028,Cisco Cloud Services,6
+ACCT0065075,Enablis Pty Ltd,6
+ACCT0065088,Lumesse Ltd,7
+ACCT0065123,Bilgeadam,12
+ACCT0065126,Blizzard Entertainment US,9
+ACCT0065127,Allianz Asset Management of America LP,6
+ACCT0065212,Cognizant - Stewart Title,8
+ACCT0065412,The Rubicon Project Inc,6
+ACCT0065539,Aryzta LLC,6
+ACCT0065544,PWC Ireland,6
+ACCT0065573,New York City Teachers Retirement Services,6
+ACCT0065670,Cubic Corporation,7
+ACCT0065688,TEKsystems - Morgan,6
+ACCT0065697,Siemens AG Mobility,6
+ACCT0065710,Common Securitization Solutions,14
+ACCT0065828,Infosys - House of Fraser,6
+ACCT0065911,Sony Interactive Entertainment Inc.,1
+ACCT0065931,AXA Technology SAS_Silva,6
+ACCT0065953,Fujitsu - Smals,5
+ACCT0066211,ANI Technologies Pvt Ltd,12
+ACCT0066396,Accenture MSP - AstraZeneca,6
+ACCT0066428,Santander Holdings USA Inc,6
+ACCT0066493,The Salvation Army Of Canada,16
+ACCT0066494,Saint-Gobain Emballage,13
+ACCT0066500,Divider BV,10
+ACCT0066508,84.51?? LLC,6
+ACCT0066545,IBM - Dow Chemical,6
+ACCT0066615,3 Step IT Oy,7
+ACCT0066637,Gift Of Hope Organ & Tissue Donor Network,6
+ACCT0066666,Midwich Ltd,6
+ACCT0066896,DP World Australia Ltd,8
+ACCT0067092,Asics Corp,6
+ACCT0067285,Infosys - NewMont,6
+ACCT0067315,MFX Division Of QuessCorp Holdings Pte Ltd,10
+ACCT0067489,Genworth Life Insurance,6
+ACCT0067519,Kinetic IT - Department for Child Protection and Family Support,6
+ACCT0067547,Infosys - Fossil,16
+ACCT0067633,Caterpillar Financial Shared Services,6
+ACCT0067659,Brookfield Multiplex Construction Europe Ltd,6
+ACCT0067668,Filiadata Informationssysteme Fur Den Handel GmbH,18
+ACCT0067711,Professional Asset Management Systems SA De CV,6
+ACCT0067720,ISB Bilisim Teknolojileri AS,6
+ACCT0068007,United Health Group,8
+ACCT0068041,Tata Consultancy Services - Atlas Copco,6
+ACCT0068045,Diebold South Africa Pty Ltd,12
+ACCT0068047,Jacobs Douwe Egberts BV,9
+ACCT0068221,HCL - Leidos,6
+ACCT0068250,Progressive Leasing LLC,6
+ACCT0068300,Applus Technologies RTD,7
+ACCT0068342,Cognizant - Bard,6
+ACCT0068505,Finance Of America Holdings LLC,7
+ACCT0068812,Fujitsu Services Ltd (TFSNOW EMEA),10
+ACCT0068856,Fujitsu Services Ltd (Internal System (ITG)),7
+ACCT0068887,Nifco America Corp,6
+ACCT0069163,Cognizant - Washington Gas,9
+ACCT0069309,Aero Grupo Boticario,6
+ACCT0069420,TEKsystems - Radian Group,5
+ACCT0070701,Veritas,6
+ACCT0070754,Infosys - Tate & Lyle,10
+ACCT0071328,WaterNSW,8
+ACCT0071400,Bank Of Utah,6
+ACCT0071761,Universitat De Girona,14
+ACCT0071832,CapGemini - Australian Taxation Office,6
+ACCT0072192,SAIC - JCC,7
+ACCT0072614,Relationship Management Consultants NV RMC,6
+ACCT0073287,Dell USA LP,6
+ACCT0074455,Isetan Mitsukoshi System Solutions Ltd,6
+ACCT0074922,Econocom-Osiatis France - Allianz,6
